@@ -30,15 +30,14 @@ and (last but not least) [C](https://www.iso-9899.info/ "Main Page - C").
 [![avatar](images/avatar.png)](images/big/avatar.png)
 
 * Maciej Matiaszowski
-* Email: [maciej.matiaszowski@gmail.com](mailto:maciej.matiaszowski@gmail.com?subject=Stagyrite%27s%20Private%20Homepage "Email me")  
-(GPG: 0x2F838507E33BD720)
+* Email: [maciej.matiaszowski@gmail.com](mailto:maciej.matiaszowski@gmail.com?subject=Stagyrite%27s%20Private%20Homepage "Email me")
 * Skype: [maciej.matiaszowski](https://join.skype.com/invite/jNso7TKeUZA1 "Join conversation")
 * Homepage: [Stagyrite.GitHub.io](https://Stagyrite.GitHub.io/ "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 * Bitbucket: [Bitbucket/Stagyrite](https://bitbucket.com/Stagyrite/ "Overview — Bitbucket")
 * X: [@effconia](https://twitter.com/effconia "Maciej Matiaszowski (@effconia) &#124; X")
 * YouTube: [@eltikia](https://www.youtube.com/@eltikia "Nostalgie-Ecke von Stagirit - YouTube") [📇](https://eltikia.github.io/ "Nostalgie-Ecke von Stagirit") [📇](https://kironia.github.io/ "Nostalgie-Ecke von Stagirit")
-* Facebook: [@Maciej-Matiaszowski](https://www.facebook.com/profile.php?id=61561010879156 "Maciej Matiaszowski | Facebook")
+* Facebook: [@Maciej-Matiaszowski](https://www.facebook.com/profile.php?id=61561010879156 "Maciej Matiaszowski &#124; Facebook")
 
 ## Microblog
 
