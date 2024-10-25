@@ -38,6 +38,7 @@ and (last but not least) [C](https://www.iso-9899.info/ "Main Page - C").
 * X: [@effconia](https://twitter.com/effconia "Maciej Matiaszowski (@effconia) &#124; X")
 * YouTube: [@eltikia](https://www.youtube.com/@eltikia "Nostalgie-Ecke von Stagirit - YouTube") [📇](https://eltikia.github.io/ "Nostalgie-Ecke von Stagirit") [📇](https://kironia.github.io/ "Nostalgie-Ecke von Stagirit")
 * Facebook: [@Maciej-Matiaszowski](https://www.facebook.com/profile.php?id=61561010879156 "Maciej Matiaszowski &#124; Facebook")
+* Instagram: [@aimdugud](https://www.instagram.com/aimdugud/ "Aimdugud (@aimdugud) • Instagram photos and videos")
 
 ## Microblog
 
