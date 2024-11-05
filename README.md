@@ -76,14 +76,12 @@ Version: 3.12
 
 * Maciej Matiaszowski
 * Email: [maciej.matiaszowski@gmail.com](mailto:maciej.matiaszowski@gmail.com?subject=Stagyrite%27s%20Private%20Homepage "Email me")
-* Pinterest: [@terroratorium](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile | Pinterest")
+* Pinterest: [@terroratorium](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile &#124; Pinterest")
 * Homepage: [Stagyrite.GitHub.io](https://Stagyrite.GitHub.io/ "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
 ## Microblog
 
 <a class="twitter-timeline" data-width="506" data-height="800" href="https://twitter.com/effconia?ref_src=twsrc%5Etfw">Tweets by effconia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br/>
 
 ⚛🍅🦅🦅
