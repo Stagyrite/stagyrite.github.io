@@ -17,7 +17,7 @@ Notwithstanding, I spent years in [Kalisz](https://copernix.io/#?where=18.08,51.
 
 My hobbies include [Standard ML programming](sml "StandardML &#124; Stagyrite"), [foreign languages](stagyrite/#languages "⚛🍅🦅🦅 &#124; Stagyrite"),
 [cinema](cinema "Vintage film posters &#124; Stagyrite") and [camping](https://copernix.io/#?where=15.29,54.143889,14&?query=&?map_type=hybrid "Copernix - Know thy World").
-They contain logic, so I'm considering giving them a new visualization via [Pinterest](https://pl.pinterest.com/terroratorium/ "Pinterest").
+They contain logic, so I'm considering giving them a new visualization via [Pinterest](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile | Pinterest").
 They had already gone through a kind of worldwide exposure.
 As one can see, it's the beginning of something that might end with more Internet exposure.
 Programming languages worth knowing are [Perl](https://stagyrite.github.io/Perl-1.0/ "Stagyrite &#124; Perl 1"),
@@ -76,15 +76,9 @@ Version: 3.12
 
 * Maciej Matiaszowski
 * Email: [maciej.matiaszowski@gmail.com](mailto:maciej.matiaszowski@gmail.com?subject=Stagyrite%27s%20Private%20Homepage "Email me")
-* Skype: [maciej.matiaszowski](https://join.skype.com/invite/jNso7TKeUZA1 "Join conversation")
+* Pinterest: [@terroratorium](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile | Pinterest")
 * Homepage: [Stagyrite.GitHub.io](https://Stagyrite.GitHub.io/ "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
-* Bitbucket: [Bitbucket/Stagyrite](https://bitbucket.com/Stagyrite/ "Overview — Bitbucket")
-* X: [@effconia](https://twitter.com/effconia "Maciej Matiaszowski (@effconia) &#124; X")
-* YouTube: [@eltikia](https://www.youtube.com/@eltikia "Nostalgie-Ecke von Stagirit - YouTube") [📇](https://eltikia.github.io/ "Nostalgie-Ecke von Stagirit") [📇](https://kironia.github.io/ "Nostalgie-Ecke von Stagirit")
-* Facebook: [ID: 61561010879156](https://www.facebook.com/profile.php?id=61561010879156 "Maciej Matiaszowski &#124; Facebook")
-* Instagram: [@aimdugud](https://www.instagram.com/aimdugud/ "Aimdugud (@aimdugud) • Instagram photos and videos")
-* Pinterest: [@terroratorium](https://pl.pinterest.com/terroratorium/ "Pinterest")
 
 ## Microblog
 
