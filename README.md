@@ -17,7 +17,7 @@ Notwithstanding, I spent years in [Kalisz](https://copernix.io/#?where=18.08,51.
 
 My hobbies include [Standard ML programming](sml "StandardML &#124; Stagyrite"), [foreign languages](stagyrite/#languages "⚛🍅🦅🦅 &#124; Stagyrite"),
 [cinema](cinema "Vintage film posters &#124; Stagyrite") and [camping](https://copernix.io/#?where=15.29,54.143889,14&?query=&?map_type=hybrid "Copernix - Know thy World").
-They contain logic, so I'm considering giving them a new visualization.
+They contain logic, so I'm considering giving them a new visualization via [Pinterest](https://pl.pinterest.com/terroratorium/ "Pinterest").
 They had already gone through a kind of worldwide exposure.
 As one can see, it's the beginning of something that might end with more Internet exposure.
 Programming languages worth knowing are [Perl](https://stagyrite.github.io/Perl-1.0/ "Stagyrite &#124; Perl 1"),
