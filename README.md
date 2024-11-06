@@ -25,10 +25,24 @@ Programming languages worth knowing are [Perl](https://stagyrite.github.io/Perl-
 [JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"),
 and (last but not least) [C](https://www.iso-9899.info/ "Main Page - C").
 
-## Skills
+### Skills
 
 * [Java Programming Language](https://www.java.com/ "Java &#124; Oracle"), [Spring Framework](https://spring.io/ "Spring &#124; Home")
 * [Apache Maven](https://maven.apache.org/ "Maven – Welcome to Apache Maven"), [dotCMS](https://www.dotcms.com/ "Content Management System (CMS) &#124; dotCMS"), [Git](https://git-scm.com/ "Git"), [Hibernate](https://hibernate.org/ "Hibernate. Everything data."), [IntelliJ IDEA](https://www.jetbrains.com/idea/ "IntelliJ IDEA – the Leading Java and Kotlin IDE"), [JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"), [SQL](https://sqlfiddle.com/ "SQL Fiddle"), [XSLT](https://www.xml.com/ "XML.com")
+
+### Microblog
+
+<a class="twitter-timeline" data-width="506" data-height="800" href="https://twitter.com/effconia?ref_src=twsrc%5Etfw">Tweets by effconia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Contact
+
+[![avatar](images/avatar.png)](images/big/avatar.png)
+
+* Maciej Matiaszowski
+* Email: [maciej.matiaszowski@gmail.com](mailto:maciej.matiaszowski@gmail.com?subject=Stagyrite%27s%20Private%20Homepage "Email me")
+* Pinterest: [@terroratorium](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile &#124; Pinterest")
+* Homepage: [Stagyrite.GitHub.io](https://Stagyrite.GitHub.io/ "Maciej Matiaszowski &#124; Stagyrite")
+* GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
 ## Geek Code
 
@@ -69,19 +83,5 @@ Version: 3.12
 [r--](https://stagyrite.github.io/#geek-code "Lifestyle: Relationships: People just aren't interested in dating me.")
 [!y+](https://stagyrite.github.io/#geek-code "Lifestyle: Sex: I'm male. Sex? What's that? No experience, willing to learn!")  
 ------END GEEK CODE BLOCK-----
-
-## Contact
-
-[![avatar](images/avatar.png)](images/big/avatar.png)
-
-* Maciej Matiaszowski
-* Email: [maciej.matiaszowski@gmail.com](mailto:maciej.matiaszowski@gmail.com?subject=Stagyrite%27s%20Private%20Homepage "Email me")
-* Pinterest: [@terroratorium](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile &#124; Pinterest")
-* Homepage: [Stagyrite.GitHub.io](https://Stagyrite.GitHub.io/ "Maciej Matiaszowski &#124; Stagyrite")
-* GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
-
-## Microblog
-
-<a class="twitter-timeline" data-width="506" data-height="800" href="https://twitter.com/effconia?ref_src=twsrc%5Etfw">Tweets by effconia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ⚛🍅🦅🦅
