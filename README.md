@@ -30,10 +30,6 @@ and (last but not least) [C](https://www.iso-9899.info/ "Main Page - C").
 * [Java Programming Language](https://www.java.com/ "Java &#124; Oracle"), [Spring Framework](https://spring.io/ "Spring &#124; Home")
 * [Apache Maven](https://maven.apache.org/ "Maven – Welcome to Apache Maven"), [dotCMS](https://www.dotcms.com/ "Content Management System (CMS) &#124; dotCMS"), [Git](https://git-scm.com/ "Git"), [Hibernate](https://hibernate.org/ "Hibernate. Everything data."), [IntelliJ IDEA](https://www.jetbrains.com/idea/ "IntelliJ IDEA – the Leading Java and Kotlin IDE"), [JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"), [SQL](https://sqlfiddle.com/ "SQL Fiddle"), [XSLT](https://www.xml.com/ "XML.com")
 
-### Microblog
-
-<a class="twitter-timeline" data-width="506" data-height="800" href="https://twitter.com/effconia?ref_src=twsrc%5Etfw">Tweets by effconia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ### Geek Code
 
 -----BEGIN GEEK CODE BLOCK-----  
@@ -73,6 +69,10 @@ Version: 3.12
 [r--](https://stagyrite.github.io/#geek-code "Lifestyle: Relationships: People just aren't interested in dating me.")
 [!y+](https://stagyrite.github.io/#geek-code "Lifestyle: Sex: I'm male. Sex? What's that? No experience, willing to learn!")  
 ------END GEEK CODE BLOCK-----
+
+### Microblog
+
+<a class="twitter-timeline" data-width="506" data-height="800" href="https://twitter.com/effconia?ref_src=twsrc%5Etfw">Tweets by effconia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Contact
 
