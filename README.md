@@ -65,10 +65,6 @@ Version: 3.12
 [!y+](https://stagyrite.github.io/#geek-code "Lifestyle: Sex: I'm male. Sex? What's that? No experience, willing to learn!")  
 ------END GEEK CODE BLOCK-----
 
-### Microblog
-
-<a class="twitter-timeline" data-width="506" data-height="800" href="https://twitter.com/effconia?ref_src=twsrc%5Etfw">Tweets by effconia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## Contact
 
 [![avatar](images/avatar.png)](images/big/avatar.png)
