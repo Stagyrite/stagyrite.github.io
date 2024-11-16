@@ -15,7 +15,7 @@ and at the [Wrocław University of Science and Technology](https://weka.pwr.edu.
 For several years, I worked as a Java programmer at Unity Group, or should I rather say [Univio](https://www.univio.com/ "Univio &#124; Digital Potential . Fully Realized")?
 Notwithstanding, I spent years in [Kalisz](https://copernix.io/#?where=18.08,51.7575,12&?query=&?map_type=hybrid "Copernix - Know thy World") where I passed [my matura exam](https://en.wikipedia.org/wiki/Matura#In_Poland "Matura - Wikipedia").
 
-My hobbies include [Standard ML programming](sml "StandardML &#124; Stagyrite"), [foreign languages](#just-languages),
+My hobbies include [Standard ML programming](sml "StandardML &#124; Stagyrite"), foreign languages,
 [cinema](cinema "Vintage film posters &#124; Stagyrite") and [camping](https://copernix.io/#?where=15.29,54.143889,14&?query=&?map_type=hybrid "Copernix - Know thy World").
 They contain logic, so I'm considering giving them a new visualization via [Pinterest](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile | Pinterest").
 They had already gone through a kind of worldwide exposure.
@@ -24,15 +24,6 @@ Programming languages worth knowing are [Perl](https://stagyrite.github.io/Perl-
 [Haskell](https://www.haskell.org/ "Haskell Language"), [Java](https://www.java.com/ "Java &#124; Oracle"),
 [JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"),
 and (last but not least) [C](https://www.iso-9899.info/ "Main Page - C").
-
-### Just languages
-
-| 🔢 | 🎌 | Language | Proficiency |
-| --- | --- | --- | --- |
-| 1️⃣ | 🇺🇸 | English | [B2](https://stagyrite.github.io/stagyrite/#languages "Post-intermediate") |
-| 2️⃣ | 🇩🇪 | German | [A2](https://stagyrite.github.io/stagyrite/#languages "Pre-intermediate. But one day I will say: Intermedìate") |
-| 3️⃣ | 🇫🇷 | French | [A0](https://stagyrite.github.io/stagyrite/#languages "Starter") |
-| 4️⃣ | 🇵🇱 | Polish | [N](https://stagyrite.github.io/stagyrite/#languages "Native") |
 
 ### Skills
 
