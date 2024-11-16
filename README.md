@@ -14,7 +14,10 @@ I'm a senior Java programmer, currently working [near Wrocław](https://copernix
 I studied Computer Science at the [University of Wrocław](https://www.ii.uni.wroc.pl/ "Instytut Informatyki Uniwersytetu Wrocławskiego")
 and at the [Wrocław University of Science and Technology](https://weka.pwr.edu.pl/ "Faculty of Electronics").
 For several years, I worked as a Java programmer at Unity Group, or should I rather say [Univio](https://www.univio.com/ "Univio &#124; Digital Potential . Fully Realized")?
-Notwithstanding, I spent years in [Kalisz](https://copernix.io/#?where=18.08,51.7575,12&?query=&?map_type=hybrid "Copernix - Know thy World") where I passed [my matura exam](https://en.wikipedia.org/wiki/Matura#In_Poland "Matura - Wikipedia").
+Notwithstanding, I spent years in [Kalisz](https://copernix.io/#?where=18.08,51.7575,12&?query=&?map_type=hybrid "Copernix - Know thy World") where I passed [my matura exam](https://en.wikipedia.org/wiki/Matura#In_Poland "Matura - Wikipedia"). Programming languages worth knowing are [Perl](https://stagyrite.github.io/Perl-1.0/ "Stagyrite &#124; Perl 1"),
+[Haskell](https://www.haskell.org/ "Haskell Language"), [Java](https://www.java.com/ "Java &#124; Oracle"),
+[JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"),
+and (last but not least) [C](https://www.iso-9899.info/ "Main Page - C").
 
 ### Hobbies
 
@@ -23,10 +26,6 @@ My hobbies include [Standard ML programming](sml "StandardML &#124; Stagyrite"),
 They contain logic, so I'm considering giving them a new visualization via [Pinterest](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile | Pinterest").
 They had already gone through a kind of worldwide exposure.
 As one can see, it's the beginning of something that might end with more Internet exposure.
-Programming languages worth knowing are [Perl](https://stagyrite.github.io/Perl-1.0/ "Stagyrite &#124; Perl 1"),
-[Haskell](https://www.haskell.org/ "Haskell Language"), [Java](https://www.java.com/ "Java &#124; Oracle"),
-[JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"),
-and (last but not least) [C](https://www.iso-9899.info/ "Main Page - C").
 
 ### Geek Code
 
