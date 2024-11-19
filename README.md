@@ -5,7 +5,7 @@
 	provided this notice is preserved.
 -->
 
-# ⚛🍅🦅🦅
+# ⚛🍅⚛🍅🍅⚛🍅🍅🍅⚛🍅🍅🍅🍅
 
 ## Q&A
 
@@ -84,4 +84,3 @@ Version: 3.12
 * Homepage: [Stagyrite.GitHub.io](https://Stagyrite.GitHub.io/ "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
-Maciej Matiaszowski
