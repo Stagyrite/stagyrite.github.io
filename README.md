@@ -12,7 +12,7 @@
 I'm a senior Java developer, currently working [near Wrocław](https://copernix.io/#?where=16.962967751599866,51.03967529286867,13&?query=&?map_type=hybrid "Copernix - Know thy World"). At the risk of repeating myself, I'm a 
 [certified Java programmer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=119D68447A8A3235F7FC3C87ACCA5DEA732C69A05A676D39979BDE45FDF81DE1 "Oracle Certified Associate, Java SE 8 Programmer"). 
 
-I spent early years in [Kalisz](https://copernix.io/#?where=18.08,51.7575,12&?query=&?map_type=hybrid "Copernix - Know thy World") where I passed [my matura exam](https://en.wikipedia.org/wiki/Matura#In_Poland "Matura - Wikipedia"). I studied Computer Science at the [University of Wrocław](https://www.ii.uni.wroc.pl/ "Instytut Informatyki Uniwersytetu Wrocławskiego")
+I spent my early years in [Kalisz](https://copernix.io/#?where=18.08,51.7575,12&?query=&?map_type=hybrid "Copernix - Know thy World"), where I passed [my matura exam](https://en.wikipedia.org/wiki/Matura#In_Poland "Matura - Wikipedia"). I studied Computer Science at the [University of Wrocław](https://www.ii.uni.wroc.pl/ "Instytut Informatyki Uniwersytetu Wrocławskiego")
 and at the [Wrocław University of Science and Technology](https://weka.pwr.edu.pl/ "Faculty of Electronics").
 For several years, I worked as a Java programmer at Unity Group, or, more currently, [Univio](https://www.univio.com/ "Univio &#124; Digital Potential . Fully Realized").
 
