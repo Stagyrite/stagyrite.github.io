@@ -11,7 +11,8 @@
 
 ### Who am I?
 
-I'm a senior Java developer, currently working [near Wrocław](https://copernix.io/#?where=16.962967751599866,51.03967529286867,13&?query=&?map_type=hybrid "Copernix - Know thy World"). At risk of repeating myself, I'm a certified Java programmer. 
+I'm a senior Java developer, currently working [near Wrocław](https://copernix.io/#?where=16.962967751599866,51.03967529286867,13&?query=&?map_type=hybrid "Copernix - Know thy World"). At risk of repeating myself, I'm a 
+[certified Java programmer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=119D68447A8A3235F7FC3C87ACCA5DEA732C69A05A676D39979BDE45FDF81DE1 "Oracle Certified Associate, Java SE 8 Programmer"). 
 
 ### What did I do before?
 
