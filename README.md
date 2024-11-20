@@ -19,7 +19,7 @@ For several years, I worked as a Java programmer at Unity Group, or, more curren
 Programming languages worth knowing are [Perl](https://stagyrite.github.io/Perl-1.0/ "Stagyrite &#124; Perl 1"),
 [Haskell](https://www.haskell.org/ "Haskell Language"), [Java](https://www.java.com/ "Java &#124; Oracle"),
 [JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"),
-and (last but not least) [C](https://www.iso-9899.info/ "Main Page - C"). Perl programming is my hobby, and this is its _raison d'être_.
+and (last but not least) [C](https://www.iso-9899.info/ "Main Page - C"). [Perl programming](https://github.com/Stagyrite/perl1 "Stagyrite/perl1: 🐪 Perl Kit 1.0") is my hobby, and this is its _raison d'être_.
 
 My other hobbies include [SML programming](sml "StandardML &#124; Stagyrite"), [foreign languages](https://pl.pinterest.com/terroratorium/just-languages/ "Pinterest"),
 [cinema](cinema "Vintage film posters &#124; Stagyrite") and [camping](https://copernix.io/#?where=15.29,54.143889,14&?query=&?map_type=hybrid "Copernix - Know thy World").
