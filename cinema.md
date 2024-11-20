@@ -49,6 +49,4 @@ as well as [a channel with C64 games](https://eltikia.github.io/ "Nostalgie-Ecke
 [![🇬🇧 The Life and Death of Colonel Blimp (1943)](images/the-life-and-death-of-colonel-blimp.png)](images/big/the-life-and-death-of-colonel-blimp.png "🇬🇧 The Life and Death of Colonel Blimp (1943)")
 [![🇮🇹 Ossessione | Obsession (1943)](images/ossessione.png)](images/big/ossessione.png "🇮🇹 Ossessione &#124; Obsession (1943)")
 
-<br/>
-
-⬛⚛🍅👺
+⚛🍅🦅🦅
