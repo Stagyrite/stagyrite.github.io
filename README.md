@@ -16,9 +16,9 @@ I'm a senior Java developer, currently working [near Wrocław](https://copernix.
 
 ### What did I do before?
 
-I studied Computer Science at the [University of Wrocław](https://www.ii.uni.wroc.pl/ "Instytut Informatyki Uniwersytetu Wrocławskiego")
+I spent early years in [Kalisz](https://copernix.io/#?where=18.08,51.7575,12&?query=&?map_type=hybrid "Copernix - Know thy World") where I passed [my matura exam](https://en.wikipedia.org/wiki/Matura#In_Poland "Matura - Wikipedia"). I studied Computer Science at the [University of Wrocław](https://www.ii.uni.wroc.pl/ "Instytut Informatyki Uniwersytetu Wrocławskiego")
 and at the [Wrocław University of Science and Technology](https://weka.pwr.edu.pl/ "Faculty of Electronics").
-For several years, I worked as a Java programmer at Unity Group, or, more currently, [Univio](https://www.univio.com/ "Univio &#124; Digital Potential . Fully Realized"). Notwithstanding, I spent years in [Kalisz](https://copernix.io/#?where=18.08,51.7575,12&?query=&?map_type=hybrid "Copernix - Know thy World") where I passed [my matura exam](https://en.wikipedia.org/wiki/Matura#In_Poland "Matura - Wikipedia").
+For several years, I worked as a Java programmer at Unity Group, or, more currently, [Univio](https://www.univio.com/ "Univio &#124; Digital Potential . Fully Realized").
 
 ### What programming languages do I recommend?
 
