@@ -27,7 +27,7 @@ Programming languages worth knowing are [Perl](https://stagyrite.github.io/Perl-
 [JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"),
 and (last but not least) [C](https://www.iso-9899.info/ "Main Page - C"). Perl programming is my hobby, and this is its _raison d'être_.
 
-### Any hobbies?
+### Any more hobbies?
 
 My hobbies include [Standard ML programming](sml "StandardML &#124; Stagyrite"), [foreign languages](https://pl.pinterest.com/terroratorium/just-languages/ "Pinterest"),
 [cinema](cinema "Vintage film posters &#124; Stagyrite") and [camping](https://copernix.io/#?where=15.29,54.143889,14&?query=&?map_type=hybrid "Copernix - Know thy World").
