@@ -11,7 +11,7 @@
 
 ### Who am I?
 
-I'm a senior Java programmer, currently working [near Wrocław](https://copernix.io/#?where=16.962967751599866,51.03967529286867,13&?query=&?map_type=hybrid "Copernix - Know thy World").
+I'm a senior Java developer, currently working [near Wrocław](https://copernix.io/#?where=16.962967751599866,51.03967529286867,13&?query=&?map_type=hybrid "Copernix - Know thy World"). At risk of repeating myself, I'm a certified Java programmer. 
 
 ### What did I do before?
 
@@ -24,7 +24,7 @@ For several years, I worked as a Java programmer at Unity Group, or, more curren
 Programming languages worth knowing are [Perl](https://stagyrite.github.io/Perl-1.0/ "Stagyrite &#124; Perl 1"),
 [Haskell](https://www.haskell.org/ "Haskell Language"), [Java](https://www.java.com/ "Java &#124; Oracle"),
 [JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"),
-and (last but not least) [C](https://www.iso-9899.info/ "Main Page - C").
+and (last but not least) [C](https://www.iso-9899.info/ "Main Page - C"). Perl programming is my hobby, and this is its _raison d'être_.
 
 ### Any hobbies?
 
