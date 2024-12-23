@@ -19,8 +19,8 @@ Programming languages worth knowing are [Perl](https://www.perl.org/ "The Perl P
 [JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"),
 and (last but not least) [C](https://www.iso-9899.info/ "Main Page - C"). Haskell programming is my professional hobby, and this is its _raison d'être_. My hobbies include [SML programming](sml "StandardML &#124; Stagyrite"), [foreign languages](https://pl.pinterest.com/terroratorium/just-languages/ "Pinterest"),
 [cinema](cinema "Vintage film posters &#124; Stagyrite") and [camping](https://copernix.io/#?where=15.29,54.143889,14&?query=&?map_type=hybrid "Copernix - Know thy World").
-They contain logic, so I'm considering giving them a new visualization via [Pinterest](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile | Pinterest").
-They have already had some worldwide exposure. As one can see, it's the beginning of something that might end with more [Internet exposure](https://www.google.com/search?q=Maciej+Matiaszowski "Maciej Matiaszowski - Search in Google").
+They contain logic, so I'm considering giving them a new visualization using [Grafana](https://grafana.com/grafana/ "Grafana | Query, visualize, alerting observability platform").
+They have already had some worldwide exposure via [Pinterest](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile | Pinterest"). As one can see, it's the beginning of something that might end with more [Internet exposure](https://www.google.com/search?q=Maciej+Matiaszowski "Maciej Matiaszowski - Search in Google").
 
 ## Contact
 
