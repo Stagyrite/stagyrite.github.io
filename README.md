@@ -25,5 +25,5 @@ Programming languages worth knowing are [JavaScript](https://www.javascript.com/
 * Homepage: [Stagyrite.GitHub.io](https://Stagyrite.GitHub.io/ "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
-<!--- 4 atoms in 10 tomatoes -->
+<!--- 4️⃣ atoms in 🔟 tomatoes -->
 ⚛🍅⚛🍅🍅⚛🍅🍅🍅⚛🍅🍅🍅🍅
