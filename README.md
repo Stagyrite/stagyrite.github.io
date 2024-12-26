@@ -36,4 +36,4 @@ Notwithstanding, I'm already pushed to call it a stream of _4 xs in 10 ys_. I'd 
 * Homepage: [Stagyrite.GitHub.io](https://Stagyrite.GitHub.io/ "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
-🏮🍷⚛️🔱
+🏮🍷⚛️⛧
