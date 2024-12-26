@@ -24,8 +24,8 @@ To understand the issue of programming languages worth knowing, let me consider 
 1. 'Graph.showGraph()', or all of them as a regular expression
 1. 'Graph.{execute,initializeStream,onUpdate,showGraph}()'.
 
-It'd consist as well of a specialized syntax extension that is far more prototypical to me.\
-&nbsp; ⚛🍅⚛🍅🍅⚛🍅🍅🍅⚛🍅🍅🍅🍅
+It'd consist as well of a specialized syntax extension that is far more prototypical to me:\
+&nbsp; ⚛🍅⚛🍅🍅⚛🍅🍅🍅⚛🍅🍅🍅🍅.
 
 ## Contact
 
