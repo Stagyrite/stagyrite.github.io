@@ -21,7 +21,7 @@ To understand the issue of programming languages worth knowing, let me consider 
 1. 'Graph.executeGrafana()',
 1. 'Graph.onUpdate()',
 1. 'Graph.initializeGrafanaStream()',
-as well as a specialized syntax that is far more prototypical to me.
+1. as well as a specialized syntax that is far more prototypical to me.
 
 ## Contact
 
