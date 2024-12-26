@@ -20,7 +20,7 @@ To understand the issue of programming languages worth knowing, let me consider
 1. [C](https://www.iso-9899.info/ "Main Page - C") and (last but not least)
 1. [JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com").
 
-Because they are a loose set of technologies, they had worldwide exposure via [Pinterest](https://pl.pinterest.com/terroratorium/it-skills/ "terroratorium - Profile &#124; Pinterest"), and you won't believe it. Their compilers contain logic, so I'm considering giving them a visualization inspired by [Grafana](https://grafana.com/grafana/ "Grafana &#124; Query, visualize, alerting observability platform") (i.e., a graph generator with a nice interface like 'Graph.registerStream()',  'Graph.performDataUpdate()' etc.).
+Because they are a loose set of technologies, they had worldwide exposure via [Pinterest](https://pl.pinterest.com/terroratorium/it-skills/ "terroratorium - Profile &#124; Pinterest"), and you won't believe it. Their compilers contain logic, so I'm considering giving them a visualization inspired by [Grafana](https://grafana.com/grafana/ "Grafana &#124; Query, visualize, alerting observability platform"). I'd call it a graph generator with an interface consisting of methods like 'Graph.registerStream()',  'Graph.performDataUpdate()' etc.
 
 ## Contact
 
