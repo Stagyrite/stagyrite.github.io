@@ -24,6 +24,8 @@ To understand the issue of programming languages worth knowing, let me consider 
 1. 'Graph.showGraph()'
 1. as well as a specialized syntax that is far more prototypical to me.
 
+⚛🍅⚛🍅🍅⚛🍅🍅🍅⚛🍅🍅🍅🍅
+
 ## Contact
 
 [![avatar](images/avatar.png)](images/big/avatar.png)
@@ -33,5 +35,3 @@ To understand the issue of programming languages worth knowing, let me consider 
 * Pinterest: [@terroratorium](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile &#124; Pinterest")
 * Homepage: [Stagyrite.GitHub.io](https://Stagyrite.GitHub.io/ "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
-
-⚛🍅⚛🍅🍅⚛🍅🍅🍅⚛🍅🍅🍅🍅
