@@ -18,9 +18,9 @@ My private hobbies include going to [the cinema](cinema "Vintage film posters &#
 
 To understand the issue of programming languages worth knowing, let me consider [Java](https://www.java.com/ "Java &#124; Oracle"), [Perl](https://www.perl.org/ "The Perl Programming Language - www.perl.org"), [C++](https://llvm.org/ "The LLVM Compiler Infrastructure Project"), [C](https://www.iso-9899.info/ "Main Page - C") and (last but not least) [JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"). Because it's a loose set of technologies, it already had worldwide exposure via [Pinterest](https://pl.pinterest.com/terroratorium/it-skills/ "terroratorium - Profile &#124; Pinterest") that you won't believe. Their compilers contain specialized logic, so I'm considering giving them a visualization kit inspired by [Grafana](https://grafana.com/grafana/ "Grafana &#124; Query, visualize, alerting observability platform").
 
-It'd require a syntax extension that is yet far too prototypical to me:\
+It'd require to evolve a syntax extension that is yet far too prototypical to me:\
 &nbsp; ⚛🍅⚛🍅🍅⚛🍅🍅🍅⚛🍅🍅🍅🍅.\
-Notwithstanding, I'm compelled to call the syntax extension to be _4 atoms in 10 tomatoes_. I'd call the visualization kit a stream-based graph generator, and [its interface](https://chat.openai.com/?model=gpt-4&q=Make%20an%20interface%20in%20Java%20with%20%27Graph.executeGrafana%28%29%27%2C%20%27Graph.onGrafanaUpdate%28%29%27%2C%20%27Graph.initializeGrafanaStream%28%29%27%2C%20and%20%27Graph.showGrafanaGraph%28%29%27. "ChatGPT") would have more methods than just:
+Notwithstanding, I'm compelled to call it to be _4 atoms in 10 tomatoes_. I'd call this visualization kit a stream-based graph generator, and [its interface](https://chat.openai.com/?model=gpt-4&q=Make%20an%20interface%20in%20Java%20with%20%27Graph.executeGrafana%28%29%27%2C%20%27Graph.onGrafanaUpdate%28%29%27%2C%20%27Graph.initializeGrafanaStream%28%29%27%2C%20and%20%27Graph.showGrafanaGraph%28%29%27. "ChatGPT") would have more methods than just:
 1. 'Graph.execute()',
 1. 'Graph.initializeStream()',
 1. 'Graph.onUpdate()',
