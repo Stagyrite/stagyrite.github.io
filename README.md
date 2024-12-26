@@ -24,7 +24,7 @@ To understand the issue of programming languages worth knowing, let me consider 
 1. 'Graph.showGraph()'.
 
 It'd consist as well of a specialized syntax that is far more prototypical to me.\
-⚛🍅⚛🍅🍅⚛🍅🍅🍅⚛🍅🍅🍅🍅\
+	⚛🍅⚛🍅🍅⚛🍅🍅🍅⚛🍅🍅🍅🍅\
 Because it's a loose set of technologies, it already had worldwide exposure via [Pinterest](https://pl.pinterest.com/terroratorium/it-skills/ "terroratorium - Profile &#124; Pinterest") that you won't believe.
 
 ## Contact
