@@ -24,7 +24,7 @@ I'd call it a stream-based graph generator, but [its interface](https://chat.ope
 1. 'Graph.execute()',
 1. 'Graph.initializeStream()',
 1. 'Graph.onUpdate()',
-1. 'Graph.showGraph()', or even all of them as a regular expression
+1. 'Graph.showGraph()', or even all as a regular expression
 1. 'Graph.{execute,initializeStream,onUpdate,showGraph}()'.
 
 ## Contact
