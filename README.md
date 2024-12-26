@@ -20,12 +20,11 @@ To understand the issue of programming languages worth knowing, let me consider 
 
 It'd require to evolve a syntax extension that is yet far too prototypical to me:\
 &nbsp; ⚛🍅⚛🍅🍅⚛🍅🍅🍅⚛🍅🍅🍅🍅.\
-Notwithstanding, I'm compelled to call it to be _4 atoms in 10 tomatoes_. I'd call this visualization kit a stream-based graph generator, and [its interface](https://chat.openai.com/?model=gpt-4&q=Make%20an%20interface%20in%20Java%20with%20%27Graph.executeGrafana%28%29%27%2C%20%27Graph.onGrafanaUpdate%28%29%27%2C%20%27Graph.initializeGrafanaStream%28%29%27%2C%20and%20%27Graph.showGrafanaGraph%28%29%27. "ChatGPT") would have more methods than just:
+Notwithstanding, I'm pushed to call it a stream of _4 atoms in 10 tomatoes_. I'd call this visualization kit a stream-based graph generator, and [its interface](https://chat.openai.com/?model=gpt-4&q=Make%20an%20interface%20in%20Java%20with%20%27Graph.executeGrafana%28%29%27%2C%20%27Graph.onGrafanaUpdate%28%29%27%2C%20%27Graph.initializeGrafanaStream%28%29%27%2C%20and%20%27Graph.showGrafanaGraph%28%29%27. "ChatGPT") would have more methods than just:
 1. 'Graph.execute()',
 1. 'Graph.initializeStream()',
-1. 'Graph.onUpdate()',
-1. 'Graph.showGraph()', or even all as a regular expression
-1. 'Graph.{execute, initializeStream, onUpdate, showGraph}()'.
+1. 'Graph.onUpdate()', and
+1. 'Graph.showGraph()'.
 
 ## Contact
 
