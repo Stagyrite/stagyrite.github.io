@@ -23,6 +23,7 @@ To understand the issue of programming languages worth knowing, let me consider 
 1. 'Graph.initializeStream()',
 1. 'Graph.showGraph()'
 1. as well as a specialized syntax that is far more prototypical to me.
+But we'll see, or maybe we'll not see.
 
 ## Contact
 
