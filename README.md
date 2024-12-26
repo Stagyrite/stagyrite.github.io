@@ -19,7 +19,7 @@ My private hobbies include going to [the cinema](cinema "Vintage film posters &#
 
 To understand the issue of programming languages worth knowing, let me consider [Java](https://www.java.com/ "Java &#124; Oracle"), [Perl](https://www.perl.org/ "The Perl Programming Language - www.perl.org"), [C++](https://llvm.org/ "The LLVM Compiler Infrastructure Project"), [C](https://www.iso-9899.info/ "Main Page - C") and (last but not least) [JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"). Because they are a loose set of technologies, they had worldwide exposure via [Pinterest](https://pl.pinterest.com/terroratorium/it-skills/ "terroratorium - Profile &#124; Pinterest") that you won't believe. Their compilers contain logic, so I'm considering giving them a visualization inspired by [Grafana](https://grafana.com/grafana/ "Grafana &#124; Query, visualize, alerting observability platform"). I'd call it a stream-based graph generator, and [its interface](https://chat.openai.com/?model=gpt-4&q=Make%20an%20interface%20in%20Java%20with%20%27Graph.executeGrafana%28%29%27%2C%20%27Graph.onGrafanaUpdate%28%29%27%2C%20%27Graph.initializeGrafanaStream%28%29%27%2C%20and%20%27Graph.showGrafanaGraph%28%29%27. "ChatGPT") would have methods 
 1. 'Graph.executeGrafana()',
-1. 'Graph.onUpdate()',
+1. 'Graph.onGrafanaUpdate()',
 1. 'Graph.initializeGrafanaStream()',
 1. 'Graph.showGrafanaGraph()'
 1. as well as a specialized syntax that is far more prototypical to me.
