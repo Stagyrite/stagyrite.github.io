@@ -20,7 +20,7 @@ To understand the issue of programming languages worth knowing, let me consider 
 
 I'd require a syntax extension that is yet far too prototypical to me:\
 &nbsp; ⚛🍅⚛🍅🍅⚛🍅🍅🍅⚛🍅🍅🍅🍅.\
-I'd call it a stream-based graph generator, but [its interface](https://chat.openai.com/?model=gpt-4&q=Make%20an%20interface%20in%20Java%20with%20%27Graph.executeGrafana%28%29%27%2C%20%27Graph.onGrafanaUpdate%28%29%27%2C%20%27Graph.initializeGrafanaStream%28%29%27%2C%20and%20%27Graph.showGrafanaGraph%28%29%27. "ChatGPT") would have more methods than just:
+Notwithstanding, I have to call the syntax extension 4 Atoms in 10 Tomatoes. I'd call it a stream-based graph generator, but [its interface](https://chat.openai.com/?model=gpt-4&q=Make%20an%20interface%20in%20Java%20with%20%27Graph.executeGrafana%28%29%27%2C%20%27Graph.onGrafanaUpdate%28%29%27%2C%20%27Graph.initializeGrafanaStream%28%29%27%2C%20and%20%27Graph.showGrafanaGraph%28%29%27. "ChatGPT") would have more methods than just:
 1. 'Graph.execute()',
 1. 'Graph.initializeStream()',
 1. 'Graph.onUpdate()',
