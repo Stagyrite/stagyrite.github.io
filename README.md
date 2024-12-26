@@ -25,7 +25,7 @@ Notwithstanding, I'm compelled to call it to be _4 atoms in 10 tomatoes_. I'd ca
 1. 'Graph.initializeStream()',
 1. 'Graph.onUpdate()',
 1. 'Graph.showGraph()', or even all as a regular expression
-1. 'Graph.{execute,initializeStream,onUpdate,showGraph}()'.
+1. 'Graph.{execute, initializeStream, onUpdate, showGraph}()'.
 
 ## Contact
 
