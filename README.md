@@ -7,14 +7,12 @@
 
 # Maciej Matiaszowski 
 
-## About me
+## 'about | me'
 
 I'm a senior Java developer currently working [near Wrocław](https://copernix.io/#?where=16.962967751599866,51.03967529286867,13&?query=&?map_type=hybrid "Copernix - Know thy World"). At the risk of repeating myself, I'm a 
 [certified Java programmer](stagyrite "Stagyrite | Profile"). I spent my early years in [Kalisz](https://copernix.io/#?where=18.08,51.7575,12&?query=&?map_type=hybrid "Copernix - Know thy World"), where I passed [my matura exam](https://chat.openai.com/?model=gpt-4&q=What%20was%20matura%20in%20Poland%20back%20in%20the%20year%202001%3F%20Only%20Polish%20was%20compulsory "ChatGPT"). I studied Computer Science at the [University of Wrocław](https://www.ii.uni.wroc.pl/ "Instytut Informatyki Uniwersytetu Wrocławskiego") and at the [Wrocław University of Science and Technology](https://weka.pwr.edu.pl/ "Faculty of Electronics"). For several years, I worked as a Java programmer at Unity Group or, more currently, [Univio](https://www.univio.com/ "Univio &#124; Digital Potential . Fully Realized").
 
 My private hobbies include going to [the cinema](cinema "Vintage film posters &#124; Stagyrite"), [camping](https://copernix.io/#?where=15.29,54.143889,14&?query=&?map_type=hybrid "Copernix - Know thy World"), [inline skating](https://copernix.io/#?where=16.939742393499095,51.11809829496569,19&?query=&?map_type=hybrid "Copernix - Know thy World"), [hiking](https://copernix.io/#?where=16.86239573690688,51.15963462572615,20&?query=&?map_type=hybrid "Copernix - Know thy World"), and [foreign languages](https://pl.pinterest.com/terroratorium/just-languages/ "Pinterest"). As one can see, it's the beginning of something that might end with an alternative [Internet exposure](https://kironia.github.io/ "Nostalgie-Ecke von Stagyrit"). [Standard ML programming](sml "Standard ML &#124; Stagyrite") is **my professional hobby**, and this is, together with mastering [Emacs](https://www.spacemacs.org/ "Spacemacs: Emacs advanced Kit focused on Evil"), its new _raison d'être_.
-
-### 'Me.about()'
 
 To understand the issue of programming languages worth knowing, let me consider [Java](https://www.java.com/ "Java &#124; Oracle"), [Perl](https://www.perl.org/ "The Perl Programming Language - www.perl.org"), [C++](https://llvm.org/ "The LLVM Compiler Infrastructure Project"), [C](https://www.iso-9899.info/ "Main Page - C") and (last but not least) [JavaScript](https://www.javascript.com/ "Learn JavaScript Online - Courses for Beginners - javascript.com"). Because they are a loose set of technologies, they already had worldwide exposure via [Pinterest](https://pl.pinterest.com/terroratorium/it-skills/ "terroratorium - Profile &#124; Pinterest") that you won't believe. Their compilers contain specialized logic, so I'm considering giving them a visualization kit inspired by [Grafana](https://grafana.com/grafana/ "Grafana &#124; Query, visualize, alerting observability platform").
 
@@ -26,7 +24,7 @@ Notwithstanding, I'm already pushed to call it a stream of _4 xs in 10 ys_. I'd 
 1. 'Graph.onUpdate()', and
 1. 'Graph.showGraph()'.
 
-## Contact
+## 'contact | me'
 
 [![avatar](images/avatar.png)](images/big/avatar.png)
 
