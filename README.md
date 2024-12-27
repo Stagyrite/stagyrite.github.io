@@ -24,4 +24,4 @@ My private hobbies include going to [the cinema](cinema "Vintage film posters &#
 * Homepage: [Stagyrite.GitHub.io](https://Stagyrite.GitHub.io/ "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
-\'_\|me\'
+\'_ \| me\'
