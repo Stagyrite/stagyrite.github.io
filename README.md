@@ -26,7 +26,7 @@ As one can see, it's the beginning of something that might end with [an alternat
 
 * Maciej Matiaszowski
 * Email: [maciej.matiaszowski@gmail.com](mailto:maciej.matiaszowski@gmail.com?subject=Stagyrite%27s%20Private%20Homepage "Email me")
-* Pinterest: [@terroratorium](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile &#124; Pinterest") [🐈](https://pl.pinterest.com/terroratorium/specialist-certification/ "Pinterest")[🐈](https://pl.pinterest.com/terroratorium/it-skills/ "Pinterest")
+* Pinterest: [@terroratorium](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile &#124; Pinterest") [⚛](https://pl.pinterest.com/terroratorium/specialist-certification/ "Pinterest")[🍅](https://pl.pinterest.com/terroratorium/it-skills/ "Pinterest")
 * Homepage: [Stagyrite.GitHub.io](https://Stagyrite.GitHub.io/ "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
