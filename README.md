@@ -14,7 +14,7 @@ I spent my early years in [Kalisz](https://copernix.io/#?where=18.08,51.7575,12&
 My private hobbies include
 1. 🛼 [inline skating](https://copernix.io/#?where=16.939742393499095,51.11809829496569,19&?query=&?map_type=hybrid "Copernix - Know thy World"),
 1. 🏕️ [camping](https://copernix.io/#?where=15.29,54.143889,14&?query=&?map_type=hybrid "Copernix - Know thy World"),
-1. 🇬🇧🇩🇪 [foreign languages](https://pl.pinterest.com/terroratorium/just-languages/ "Pinterest"),
+1. 🇬🇧🇩🇪 [foreign languages](languages "Standard ML &#124; Stagyrite"),
 1. 🎥 [going to the cinema](cinema "Vintage film posters &#124; Stagyrite"), and
 1. 🌲 [hiking](https://copernix.io/#?where=16.86239573690688,51.15963462572615,20&?query=&?map_type=hybrid "Copernix - Know thy World").
 
