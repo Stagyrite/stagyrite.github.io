@@ -5,15 +5,15 @@
 	provided this notice is preserved.
 -->
 
-## ["Just", "languages"] | stdout
+## ["Natural", "languages"] | stdout
 
-| 🔢 | 🟥🎌 | Language | Proficiency |
+| 🔢 | 🎌🟥 | Language | Proficiency |
 | :---: |  :---: | :---: | :---: |
-| 1️⃣ | ⬛🇬🇧 | English | [B2](https://stagyrite.github.io/stagyrite/#languages "Post-intermediate") |
-| 2️⃣ | ⬛🇩🇪 | German | [A2](https://stagyrite.github.io/stagyrite/#languages "Pre-intermediate. But one day I will say: Intermedìate") |
-| 3️⃣ | ⬛🇫🇷 | French | [A0](https://stagyrite.github.io/stagyrite/#languages "Starter") |
-| 4️⃣ | ⬛🇵🇱 | Polish | [N](https://stagyrite.github.io/stagyrite/#languages "Native")
+| 1️⃣ | 🇬🇧⬛ | English | [B2](https://stagyrite.github.io/stagyrite/#languages "Post-intermediate") |
+| 2️⃣ | 🇩🇪⬛ | German | [A2](https://stagyrite.github.io/stagyrite/#languages "Pre-intermediate. But one day I will say: Intermedìate") |
+| 3️⃣ | 🇫🇷⬛ | French | [A0](https://stagyrite.github.io/stagyrite/#languages "Starter") |
+| 4️⃣ | 🇵🇱⬛ | Polish | [N](https://stagyrite.github.io/stagyrite/#languages "Native")
 
 ---
 
-[\["Just", "languages"\] \| stdout](https://stagyrite.github.io/languages "Stagyrite &#124; Private Homepage")
+[\["Natural", "languages"\] \| stdout](https://stagyrite.github.io/languages "Stagyrite &#124; Private Homepage")
