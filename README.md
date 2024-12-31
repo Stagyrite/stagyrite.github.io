@@ -18,7 +18,7 @@ My private hobbies include
 1. [hiking](https://copernix.io/#?where=16.86239573690688,51.15963462572615,20&?query=&?map_type=hybrid "Copernix - Know thy World"), and
 1. [inline skating](https://copernix.io/#?where=16.939742393499095,51.11809829496569,19&?query=&?map_type=hybrid "Copernix - Know thy World").
 
-As one can see, it's the beginning of something that might end with [an alternative](https://kironia.github.io/ "Nostalgie-Ecke von Stagyrit") Internet exposure. 
+As one can see, it's the beginning of something that might end with [an alternative Internet exposure](https://kironia.github.io/ "Nostalgie-Ecke von Stagyrit"). 
 
 ## ["Contact", "me"] | stdout
 
