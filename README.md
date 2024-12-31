@@ -18,7 +18,7 @@ My private hobbies include
 1. 🎥 [going to the cinema](cinema "Vintage film posters &#124; Stagyrite"), and
 1. 🌲 [hiking](https://copernix.io/#?where=16.86239573690688,51.15963462572615,20&?query=&?map_type=hybrid "Copernix - Know thy World").
 
-As one can see, it's the beginning of something that might end with yet another [Internet exposure](https://kironia.github.io/ "Nostalgie-Ecke von Stagyrit"). 
+It's the beginning of something that might end with yet another [Internet exposure](https://kironia.github.io/ "Nostalgie-Ecke von Stagyrit"), as one can see.
 
 ## ["Contact", "me"] | stdout
 
