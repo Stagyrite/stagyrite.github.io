@@ -8,7 +8,7 @@
 ## ["Just", "languages"] | stdout
 
 | 🔢 | 🎌 | Language | Proficiency |
-| --- | --- | --- | --- |
+| :---: |  :---: | :---: | :---: |
 | 1️⃣ | 🇬🇧 | English | [B2](https://stagyrite.github.io/stagyrite/#languages "Post-intermediate") |
 | 2️⃣ | 🇩🇪 | German | [A2](https://stagyrite.github.io/stagyrite/#languages "Pre-intermediate. But one day I will say: Intermedìate") |
 | 3️⃣ | 🇫🇷 | French | [A0](https://stagyrite.github.io/stagyrite/#languages "Starter") |
