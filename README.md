@@ -25,7 +25,7 @@ It's the beginning of something that might end with yet another [Internet exposu
 [![avatar](images/avatar.png)](images/big/avatar.png)
 
 * Maciej Matiaszowski
-* Email: [maciej.matiaszowski@gmail.com](mailto:maciej.matiaszowski@gmail.com?subject=Stagyrite%27s%20Private%20Homepage "Email me")
+* Email: [prueba@int.pl](mailto:prueba@int.pl?subject=Stagyrite%27s%20Private%20Homepage "Email me")
 * Pinterest: [@terroratorium](https://pl.pinterest.com/terroratorium/ "terroratorium - Profile &#124; Pinterest") (pins: [📌](https://pl.pinterest.com/terroratorium/it-skills/ "Pinterest &#124; IT Skills")[📌](https://pl.pinterest.com/terroratorium/just-languages/ "Pinterest &#124; Just languages")[📌](https://pl.pinterest.com/terroratorium/nostalgie-ecke-von-stagirit/ "Pinterest &#124; Nostalgie-Ecke von Stagirit")[📌](https://pl.pinterest.com/terroratorium/specialist-certification/ "Pinterest &#124; Specialist certification")[📌](https://pl.pinterest.com/terroratorium/my-work/ "Pinterest &#124; My Work")[📌](https://pl.pinterest.com/terroratorium/contact/ "Pinterest &#124; Contact"))
 * Homepage: [Stagyrite.GitHub.io](https://Stagyrite.GitHub.io/ "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
