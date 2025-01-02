@@ -5,6 +5,8 @@
 	provided this notice is preserved.
 -->
 
+# Languages
+
 ## ["My", language", "proficiency"] | stdout
 
 | 🔢 | 🎌 🟥 | Language | Proficiency |
