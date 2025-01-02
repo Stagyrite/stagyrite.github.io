@@ -18,7 +18,7 @@ My private hobbies include
 1. [🇺🇸🇩🇪 foreign languages](languages "Standard ML &#124; Stagyrite"),
 1. and [🛼☀️ inline skating](https://copernix.io/#?where=16.939742393499095,51.11809829496569,19&?query=&?map_type=hybrid "Copernix - Know thy World").
 
-They are a beginning of something that might end with yet another [Internet exposure](https://kironia.github.io/ "Nostalgie-Ecke von Stagyrit"), and that's just for instance.
+They are a beginning of something that might end with yet another [Internet exposure](https://kironia.github.io/ "Nostalgie-Ecke von Stagyrit"), although that's just for instance.
 
 ## ["Contact", "me"] | stdout
 
