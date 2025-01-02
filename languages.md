@@ -7,7 +7,7 @@
 
 # Languages
 
-## ["My", language", "proficiency"] | stdout
+## ["My", "language", "proficiency"] | stdout
 
 | 🔢 | 🎌 🟥 | Language | Proficiency |
 | :---: |  :---: | :---: | :---: |
