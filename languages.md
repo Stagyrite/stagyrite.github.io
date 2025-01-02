@@ -16,7 +16,7 @@
 
 ## ["My", "places"] | stdout
 
-* Pinterest: [@terroratorium/just-languages](https://pl.pinterest.com/terroratorium/just-languages/ "Pinterest &#124; Just languages") 📌
+* Pinterest: [@terroratorium](https://pl.pinterest.com/terroratorium/just-languages/ "Pinterest &#124; Just languages") 📌
 * YouTube: [@EasyGerman](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ "Easy German - YouTube")
 * Duolingo: [Duolingo.com](https://duolingo.com/ "Duolingo - The world's best way to learn a language")
 * LingoDeer: [www.LingoDeer.com](https://www.lingodeer.com/ "LingoDeer: Lernen Sie Japanisch, Koreanisch, Chinesisch und mehr!")
