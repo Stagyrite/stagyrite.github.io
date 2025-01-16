@@ -2,12 +2,12 @@
 
 ## ["Just", "languages"] | stdout
 
-| 🔢 | 🎌 🟥 | Language | Proficiency |
-| :---: |  :---: | :---: | :---: |
-| 1️⃣ | 🇬🇧 🇺🇸 ⬛ | English | [B2](https://stagyrite.github.io/stagyrite/#languages "Post-intermediate") |
-| 2️⃣ | 🇩🇪 ⬛ | German | [A2](https://stagyrite.github.io/stagyrite/#languages "Pre-intermediate. But one day I will say: Intermedìate") |
-| 3️⃣ | 🇫🇷 ⬛ | French | [A0](https://stagyrite.github.io/stagyrite/#languages "Absolute beginner") |
-| 4️⃣ | 🇵🇱 ⬛ | Polish | [N](https://stagyrite.github.io/stagyrite/#languages "Native")
+| 🔢 | 🎌 🟥 | Language | Proficiency (CEFR) | Proficiency (ILR) |
+| :---: |  :---: | :---: | :---: | :---: |
+| 1️⃣ | 🇬🇧 🇺🇸 ⬛ | English | [B2](https://stagyrite.github.io/stagyrite/#languages "Post-intermediate") | [3+](https://stagyrite.github.io/stagyrite/#languages "Professional working proficiency") |
+| 2️⃣ | 🇩🇪 ⬛ | German | [A2](https://stagyrite.github.io/stagyrite/#languages "Pre-intermediate. But one day I will say: Intermedìate") | [1+](https://stagyrite.github.io/stagyrite/#languages "Elementary proficiency. But one day I will say: Limited working proficiency") |
+| 3️⃣ | 🇫🇷 ⬛ | French | [A1](https://stagyrite.github.io/stagyrite/#languages "Absolute beginner") | [0+](https://stagyrite.github.io/stagyrite/#languages "Memorized proficiency") |
+| 4️⃣ | 🇵🇱 ⬛ | Polish | [N](https://stagyrite.github.io/stagyrite/#languages "Native") | [5](https://stagyrite.github.io/stagyrite/#languages "Native") |
 
 ## ["Resources"] | stdout
 
