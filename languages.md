@@ -4,10 +4,10 @@
 
 | 🔢 | 🎌 🟥 | Language | CEFR |  ILR | ACTFL |
 | :---: |  :---: | :---: | :---: | :---: | :---: |
-| 1️⃣ | 🇬🇧 🇺🇸 ⬛ | English | [B2](https://stagyrite.github.io/stagyrite/#languages "Post-intermediate") | [3+](https://stagyrite.github.io/stagyrite/#languages "Professional working proficiency") | Advanced Mid |
-| 2️⃣ | 🇩🇪 ⬛ | German | [A2/B1](https://stagyrite.github.io/stagyrite/#languages "Intermedìate") | [2](https://stagyrite.github.io/stagyrite/#languages "Limited working proficiency") | Intermediate Mid  |
-| 3️⃣ | 🇫🇷 ⬛ | French | [A1](https://stagyrite.github.io/stagyrite/#languages "Absolute beginner. But one day I will say: Pre-intermediate") | [0+](https://stagyrite.github.io/stagyrite/#languages "Memorized proficiency. But one day I will say: Elementary proficiency") | [Novice Mid](https://stagyrite.github.io/stagyrite/#languages "Novice Mid. But one day I will say: Intermediate Low") |
-| 4️⃣ | 🇵🇱 ⬛ | Polish | [N](https://stagyrite.github.io/stagyrite/#languages "Native") | [5](https://stagyrite.github.io/stagyrite/#languages "Native") | Distinguished |
+| 1️⃣ | 🇬🇧 🇺🇸 ⬛ | English | [B2](https://stagyrite.github.io/languages#proficiency--stdout "Post-intermediate") | [3+](https://stagyrite.github.io/languages#proficiency--stdout "Professional working proficiency") | Advanced Mid |
+| 2️⃣ | 🇩🇪 ⬛ | German | [A2/B1](https://stagyrite.github.io/languages#proficiency--stdout "Intermedìate") | [2](https://stagyrite.github.io/languages#proficiency--stdout "Limited working proficiency") | Intermediate Mid  |
+| 3️⃣ | 🇫🇷 ⬛ | French | [A1](https://stagyrite.github.io/languages#proficiency--stdout "Absolute beginner. But one day I will say: Pre-intermediate") | [0+](https://stagyrite.github.io/languages#proficiency--stdout "Memorized proficiency. But one day I will say: Elementary proficiency") | [Novice Mid](https://stagyrite.github.io/languages#proficiency--stdout "Novice Mid. But one day I will say: Intermediate Low") |
+| 4️⃣ | 🇵🇱 ⬛ | Polish | [N](https://stagyrite.github.io/languages#proficiency--stdout "Native") | [5](https://stagyrite.github.io/languages#proficiency--stdout "Native") | Distinguished |
 
 ## ["Resources"] | stdout
 
