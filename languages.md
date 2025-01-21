@@ -2,7 +2,7 @@
 
 ## ["Proficiency"] | stdout
 
-| 🔢 | 🎌 🟥 | Language | CEFR |  ILR | ACTFL |
+| 🔢 | 🎌 🟥 | Language | [CEFR](https://stagyrite.github.io/languages#proficiency--stdout "Common European Framework of Reference for Languages") | [ILR](https://stagyrite.github.io/languages#proficiency--stdout "Interagency Language Roundtable") | [ACTFL](https://stagyrite.github.io/languages#proficiency--stdout "American Council on the Teaching of Foreign Languages") |
 | :---: |  :---: | :---: | :---: | :---: | :---: |
 | 1️⃣ | 🇬🇧 🇺🇸 ⬛ | English | [B2](https://stagyrite.github.io/languages#proficiency--stdout "Post-intermediate") | [3+](https://stagyrite.github.io/languages#proficiency--stdout "Professional working proficiency") | Advanced Mid |
 | 2️⃣ | 🇩🇪 ⬛ | German | [A2/B1](https://stagyrite.github.io/languages#proficiency--stdout "Intermedìate") | [2](https://stagyrite.github.io/languages#proficiency--stdout "Limited working proficiency") | Intermediate Mid  |
