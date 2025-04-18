@@ -3,8 +3,9 @@
 ## ["From", "author"] | stdout
 
 It's me, [Matthias](https://stagyrite.github.io/ "Maciej Matiaszowski | Stagyrite") (yes, that programmer).
-I create Jekyll content from vintage film posters to give them a new life with Internet exposure. I also have
-[a refreshed Perl 1 compiler](https://github.com/Stagyrite/Perl-1.0 "Stagyrite/Perl-1.0: 🐪 Perl Kit, Version 1.0"),
+I create Jekyll content from vintage film posters to give them a new life with Internet exposure.
+As a result of this refreshment, I show a few colourised posters that were previously black-and-white.
+I also have [a refreshed Perl 1 compiler](https://github.com/Stagyrite/Perl-1.0 "Stagyrite/Perl-1.0: 🐪 Perl Kit, Version 1.0"),
 as well as [a channel with C64 games](https://eltikia.github.io/ "Nostalgie-Ecke von Stagirit").
 
 ## ["Gallery"] | stdout
@@ -41,6 +42,15 @@ as well as [a channel with C64 games](https://eltikia.github.io/ "Nostalgie-Ecke
 [![🇺🇸 Cat People (1942)](images/cat-people.png)](images/big/cat-people.png "🇺🇸 Cat People (1942)")
 [![🇬🇧 The Life and Death of Colonel Blimp (1943)](images/the-life-and-death-of-colonel-blimp.png)](images/big/the-life-and-death-of-colonel-blimp.png "🇬🇧 The Life and Death of Colonel Blimp (1943)")
 [![🇮🇹 Ossessione | Obsession (1943)](images/ossessione.png)](images/big/ossessione.png "🇮🇹 Ossessione &#124; Obsession (1943)")
+
+## ["Gallery", "colorization"] | stdout
+
+[![🇩🇪 Nosferatu – Eine Symphonie des Grauens &#124; Nosferatu: A Symphony of Horror (1922)](images/colorized/nosferatu.png)](images/colorized/big/nosferatu.jpg "🇩🇪 Nosferatu – Eine Symphonie des Grauens &#124; Nosferatu: A Symphony of Horror (1922)")
+[![🇩🇪 Faust - Eine deutsche Volkssage &#124; Faust – A German Folktale (1926)](images/colorized/faust.png)](images/colorized/big/faust.jpg "🇩🇪 Faust - Eine deutsche Volkssage &#124; Faust – A German Folktale (1926)")
+[![🇩🇪 Metropolis (1926)](images/colorized/metropolis.png)](images/colorized/big/metropolis.jpg "🇩🇪 Metropolis (1926)")
+[![🇩🇪 Panik &#124; Panic (1928)](images/colorized/panik.png)](images/colorized/big/panik.jpg "🇩🇪 Panik &#124; Panic (1928)")
+[![🇩🇪 Nie wieder Liebe &#124; No More Love (1931)](images/colorized/nie-wieder-liebe.png)](images/colorized/big/nie-wieder-liebe.jpg "🇩🇪 Nie wieder Liebe &#124; No More Love (1931)")
+[![🇮🇹 Ossessione | Obsession (1943)](images/colorized/ossessione.png)](images/colorized/big/ossessione.jpg "🇮🇹 Ossessione &#124; Obsession (1943)")
 
 ---
 
