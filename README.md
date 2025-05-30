@@ -8,6 +8,8 @@ My private hobbies include [🌲🌑 hiking](https://copernix.io/#?where=16.8623
 
 At the risk of repeating myself, I'm a Java programmer [certified by Oracle](stagyrite "Stagyrite &#124; Profile"), here for lifelong learning away from social cliques. I'm a programmer by profession and education, recently receiving those [international certificates](https://pl.pinterest.com/terroratorium/specialist-certification/ "Pinterest"). Java, architecture and databases are a kind of [my area](http://javablackbelt-rip.org/ "http://javablackbelt-rip.org/"). When I have a few weeks of free time, I like to [camp](https://copernix.io/#?where=15.29,54.143889,14&?query=&?map_type=hybrid "Copernix - Know thy World") at the Baltic Sea. In life, I can be either optimistic, fatalistic, or pessimistic; therefore, I'd choose to be a fatalist 🐦‍🔥. I learn [foreign languages]((languages "Languages &#124; Stagyrite), and despite knowing both English and German, I know a few sentences in French. I wander through [a forest](https://copernix.io/#?where=16.86239573690688,51.15963462572615,20&?query=&?map_type=hybrid "Copernix - Know thy World") in my free time, notwithstanding the above activities and considerations.
 
+To keep the long story short, my professional skills include Java, DevOps, dotCMS, Hibernate, IDE, JavaScript, Perl, Raku, SQL, and Spring. By IDE, I mean mainly IntelliJ IDEA and Eclipse, although I worked with NetBeans too. I've even done a fun project with WebStorm, but either Emacs or Vim should be excluded from the list of IDEs. Nevertheless, I used Vim at school and, more recently, Emacs to further educate myself in SML. 
+
 ## ["Contact", "me"] | stdout
 
 [![avatar](images/avatar.png)](images/big/avatar.png "⬛ avatar")
