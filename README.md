@@ -10,6 +10,8 @@ At the risk of repeating myself, I'm a Java programmer [certified by Oracle](sta
 
 To keep the long story short, my professional skills include Java, DevOps, dotCMS, Hibernate, IDE, JavaScript, Perl, Raku, SQL, and Spring. By IDE, I mean mainly IntelliJ IDEA and Eclipse, although I worked with NetBeans too. I've even done a fun project with WebStorm, but either Emacs or Vim should be excluded from the list of IDEs. Nevertheless, I used Vim at school and, more recently, Emacs to further educate myself in SML. 
 
+When it comes to five programming languages worth knowing, those are: Java, JavaScript, SQL, Perl and Raku. Nevertheless, C++ would be an interesting add-on, as one can handle concurrency differently than in Java. It's all a not-so-recent opinion, and therefore, more is allowed, for instance, Ruby. The way I write the headers of the sections on my homepage comes directly from [Streem](https://github.com/matz/streem "matz/streem: prototype of stream based programming language"), which was written by the creator of Ruby.
+
 ## 💎 ["Contact", "me"] | stdout
 
 [![avatar](images/avatar.png)](images/big/avatar.png "⬛ avatar")
