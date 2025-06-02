@@ -1,6 +1,6 @@
 # Maciej Matiaszowski 
 
-## ["About", "me"] | stdout
+## 💎 ["About", "me"] | stdout
 
 I spent **many** of my early years in [Kalisz](https://copernix.io/#?where=18.08,51.7575,12&?query=&?map_type=hybrid "Copernix - Know thy World"), [where](https://copernix.io/#?where=18.136781885070874,51.73672121202303,15&?query=&?map_type=hybrid "Copernix - Know thy World") I still ride my _all-terrain bike_, and that's just for instance. I studied Computer Science at the [University of Wrocław](https://www.ii.uni.wroc.pl/ "Instytut Informatyki Uniwersytetu Wrocławskiego") and at the [Wrocław University of Science and Technology](https://weka.pwr.edu.pl/ "Faculty of Electronics"). For several years, I worked as a Java programmer at a company currently called [Univio](https://www.univio.com/ "Univio &#124; Digital Potential . Fully Realized"). Even more currently and for ever more years, I've been a senior Java developer working [near Wrocław](https://copernix.io/#?where=16.962967751599866,51.03967529286867,13&?query=&?map_type=hybrid "Copernix - Know thy World"). Notwithstanding the above, I'm now a [certified Java programmer](stagyrite "Stagyrite &#124; Profile").
 
@@ -10,7 +10,7 @@ At the risk of repeating myself, I'm a Java programmer [certified by Oracle](sta
 
 To keep the long story short, my professional skills include Java, DevOps, dotCMS, Hibernate, IDE, JavaScript, Perl, Raku, SQL, and Spring. By IDE, I mean mainly IntelliJ IDEA and Eclipse, although I worked with NetBeans too. I've even done a fun project with WebStorm, but either Emacs or Vim should be excluded from the list of IDEs. Nevertheless, I used Vim at school and, more recently, Emacs to further educate myself in SML. 
 
-## ["Contact", "me"] | stdout
+## 💎 ["Contact", "me"] | stdout
 
 [![avatar](images/avatar.png)](images/big/avatar.png "⬛ avatar")
 
@@ -22,4 +22,4 @@ To keep the long story short, my professional skills include Java, DevOps, dotCM
 
 ---
 
-["𝑋", "me"] \| stdout
+💎 ["𝑋", "me"] \| stdout
