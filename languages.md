@@ -1,6 +1,6 @@
 # Languages
 
-## ["Proficiency"] | stdout
+## ["Language", "Proficiency"] | stdout
 
 | 🔢 | 🎌 | Language | [CEFR](https://stagyrite.github.io/languages#proficiency--stdout "Common European Framework of Reference for Languages") | [ILR](https://stagyrite.github.io/languages#proficiency--stdout "Interagency Language Roundtable") | [ACTFL](https://stagyrite.github.io/languages#proficiency--stdout "American Council on the Teaching of Foreign Languages") |
 | :---: |  :---: | :---: | :---: | :---: | :---: |
@@ -10,7 +10,7 @@
 | 4️⃣ | | Latein | | [0](https://stagyrite.github.io/languages#proficiency--stdout "No proficiency. But one day I will say: Memorized proficiency") | |
 | 5️⃣ | 🇵🇱 | Polish | [N](https://stagyrite.github.io/languages#proficiency--stdout "Native") | [5](https://stagyrite.github.io/languages#proficiency--stdout "Native") | Distinguished |
 
-## ["Resources"] | stdout
+## ["Language", "Resources"] | stdout
 
 * Duolingo: [Duolingo.com](https://duolingo.com/ "Duolingo - The world's best way to learn a language")
 * LingoDeer: [www.LingoDeer.com](https://www.lingodeer.com/ "LingoDeer: Lernen Sie Japanisch, Koreanisch, Chinesisch und mehr!")
@@ -20,4 +20,4 @@
 
 ---
 
-[\["𝑋"\] \| stdout](https://stagyrite.github.io/ "Stagyrite &#124; Private Homepage")
+[\["Language", "𝑋"\] \| stdout](https://stagyrite.github.io/ "Stagyrite &#124; Private Homepage")
