@@ -1,6 +1,6 @@
 # Maciej Matiaszowski 
 
-## 💎 ["About", "me"] | stdout
+## About me
 
 I spent **many** of my early years in [Kalisz](https://copernix.io/#?where=18.08,51.7575,12&?query=&?map_type=hybrid "Copernix - Know thy World"), [where](https://copernix.io/#?where=18.136781885070874,51.73672121202303,15&?query=&?map_type=hybrid "Copernix - Know thy World") I still ride my _all-terrain bike_, and that's just for instance. I studied Computer Science at the [University of Wrocław](https://www.ii.uni.wroc.pl/ "Instytut Informatyki Uniwersytetu Wrocławskiego") and at the [Wrocław University of Science and Technology](https://weka.pwr.edu.pl/ "Faculty of Electronics"). Before starting my studies, I graduated from [a lyceum](https://kopernik.kalisz.pl/ "III Liceum Ogólnokształcące im. Mikołaja Kopernika – Strona internetowa III LO w Kaliszu") in a general education class with French as the second foreign language. For several years, I worked as a Java programmer at a company currently called [Univio](https://www.univio.com/ "Univio &#124; Digital Potential . Fully Realized"). Even more currently and for even more years, I've been a senior Java developer working [near Wrocław](https://copernix.io/#?where=16.962967751599866,51.03967529286867,13&?query=&?map_type=hybrid "Copernix - Know thy World"). Notwithstanding the above, I'm now a [certified Java programmer](stagyrite "Stagyrite &#124; Profile").
 
@@ -10,18 +10,25 @@ At the risk of repeating myself, I'm a Java programmer [certified by Oracle](sta
 
 To keep the long story short, my professional skills include Java, DevOps, dotCMS, Hibernate, IDE, JavaScript, Perl, Raku, SQL, and Spring. By IDE, I mean mainly IntelliJ IDEA and Eclipse, although I worked with NetBeans too. I've even done a fun project with WebStorm, but either Emacs or Vim should be excluded from the list of IDEs. Nevertheless, I used Vim at school and, more recently, Emacs to further educate myself in SML. 
 
-Five programming languages are worth knowing: Java, JavaScript, SQL, Perl, and Raku. Nevertheless, C++ would be an interesting add-on, as one can handle concurrency differently than in Java. It's all a [not-so-recent](https://x.com/effconia/status/1923083843734548850 "https://x.com/effconia/status/1923083843734548850") opinion, and therefore, more is allowed, for instance, [Haskell](https://www.haskell.org/ "Haskell Language"). The way I write the headers of the sections on my homepage comes directly from [Streem](https://github.com/matz/streem "matz/streem: prototype of stream based programming language"), which the creator of Ruby wrote. Furthermore, when it comes to architecture, Erlang can be interesting, but together with Ruby and that stream-based programming language, outside of my list of the five languages necessarily worth knowing.
+Five programming languages are worth knowing: Java, JavaScript, SQL, Perl, and Raku. Nevertheless, C++ would be an interesting add-on, as one can handle concurrency differently than in Java. It's all a [not-so-recent](https://x.com/effconia/status/1923083843734548850 "https://x.com/effconia/status/1923083843734548850") opinion, and therefore, more is allowed, for instance, [Haskell](https://www.haskell.org/ "Haskell Language"). The way I'd rewrite the headers of the sections on my homepage is inspired by [Streem](https://github.com/matz/streem "matz/streem: prototype of stream based programming language"), which the creator of Ruby wrote. Furthermore, when it comes to architecture, Erlang can be interesting, but together with Ruby and that stream-based programming language, outside of my list of the five languages necessarily worth knowing.
 
-## 💎 ["Contact", "me"] | stdout
+```
+# speaking Streem
+["About", "Contact"] | each{s ->
+  [s, "me"] | stdout
+}
+```
+
+## Contact me
 
 [![avatar](images/avatar.png)](images/big/avatar.png "⬛ avatar")
 
 * Maciej Matiaszowski
 * Email: [maciej.matiaszowski@gmail.com](mailto:maciej.matiaszowski@gmail.com?subject=Stagyrite%27s%20Private%20Homepage "Email me")
 * X: [@effconia](https://x.com/effconia "Maciej Matiaszowski (@effconia) / X")
-* Homepage: [Stagyrite.GitHub.io](https://Stagyrite.GitHub.io/ "Maciej Matiaszowski &#124; Stagyrite")
+* Homepage: [Stagyrite.GitHub.io](https://stagyrite.github.io/ "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
 ---
 
-💎 ["𝑋", "me"] \| stdout
+[Maciej Matiaszowski](https://stagyrite.github.io/ "Maciej Matiaszowski &#124; Stagyrite")
