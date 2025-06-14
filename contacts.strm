@@ -1,0 +1,12 @@
+get = {
+    case [], _ -> nil
+    case [x, *y], 0 -> x
+    case [x, *y], n -> get(y, n - 1)
+}
+isYouTube = { x -> get(x, 1) == "YouTube" }
+getUrl = { x -> get(x, 3) }
+data = csv()
+["int,string,string,string"] | data
+stream = fread("contacts.csv") | data
+stream | filter(isYouTube) | map(getUrl) | stdout
+# Output: https://youtube.com/@eltikia
