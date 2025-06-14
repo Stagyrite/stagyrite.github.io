@@ -19,14 +19,6 @@ To keep the long story short, my professional skills include Java, DevOps, dotCM
 
 Notwithstanding the above, five programming languages are worth knowing: Java, JavaScript, SQL, Perl, and Raku. It's all a not-so-recent opinion, and therefore, replacements are allowed, for instance, Haskell or Python. C++ would be an interesting alternative, as it provides for handling concurrency differently from Java. I [speak Streem](https://stagyrite.github.io/screemer/ "screemer &#124; Stagyrite"), a stream-based prototype, but the opinion doesn’t fluctuate so extremely for it to matter.
 
-### Publications
-
-(See also [Streem](https://stagyrite.github.io/streem/ "Streem &#124; streem").)
-
-1. ***Parsing Streem grammar: a Shell-like programming language prototype*** [\[pdf\] (early draft)](Matiaszowski-streem.pdf "download the article") Kasette! 2025. See also [its GitHub repository](https://stagyrite.github.io/screemer/ "Screemer &#124; 🎌 STREEEEEEEEEEM 🎌").
-1. ***Speaking Streem demistified: a Shell-like programming language prototype*** Kasette! (future).
-1. ***Speaking Streem demistified again: a Shell-like programming language prototype*** Kasette! (future).
-
 ## Contact me
 
 ![package](images/package.png)
