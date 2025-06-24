@@ -13,7 +13,7 @@ To keep the long story short, my professional skills include Java, DevOps, dotCM
 Notwithstanding the above, five programming languages are worth knowing: Java, JavaScript, SQL, Perl, and Raku. Nevertheless, C++ would be an interesting add-on, as one can handle concurrency differently than in Java. It's all a [not-so-recent](https://x.com/effconia/status/1923083843734548850 "https://x.com/effconia/status/1923083843734548850") opinion, and therefore, more is allowed, for instance, [Haskell](https://www.haskell.org/ "Haskell Language"). Furthermore, when it comes to architecture, Erlang can be interesting, but together with Ruby and that stream-based programming language, it is outside of my list of the five languages necessarily worth knowing. The way I'd rewrite the headers of the sections on my homepage is inspired by [Streem](https://github.com/matz/streem "matz/streem: prototype of stream based programming language"), which the creator of Ruby wrote.
 
 ```ruby
-# speaking Streem
+# 💎 speaking Streem
 #
 # output:
 # About me
