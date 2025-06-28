@@ -24,7 +24,7 @@ headers = split(headersCsv, ",")
 headers | map { x -> x + " me" } | stdout
 ```
 
-Last, but not least, I'd call myself a retro gamer, as retro computer games were a part of my life for a significant period. I also have a set of Nintendo consoles, and I even ported and improved [a roguelike game](https://stagyrite.github.io/dust/ "[O]xxxxxx[[/\/\/\/\ DUST/\/\/\/\/\ > &#124; dust") for 3DS. C64 titles that I enjoyed, partially in my adolescence on PC, are available on [my YouTube](https://www.youtube.com/@eltikia "Nostalgie-Ecke von Stagirit - YouTube") channel. I even enjoy MUDs, as well as everything that can make my foreign language better, especially German.
+Last, but not least, I'd call myself a retro gamer, as retro computer games were a part of my life for a significant period. I also have a set of Nintendo consoles, and I even ported and improved [a roguelike game](https://stagyrite.github.io/dust/ "[O]xxxxxx[[/\/\/\/\ DUST/\/\/\/\/\ > &#124; dust") for 3DS. C64 titles that I enjoyed, partially in my adolescence on PC, are available on [my YouTube](https://www.youtube.com/@eltikia "Nostalgie-Ecke von Stagirit - YouTube") channel.
 
 ## Contact me
 
