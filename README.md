@@ -19,9 +19,10 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 # About me
 # Contact me
 
+appendMe = map { x -> x + " me" }
 headersCsv = "About,Contact"
 headers = split(headersCsv, ",")
-headers | map { x -> x + " me" } | stdout
+headers | appendMe | stdout
 ```
 
 ## Contact me
