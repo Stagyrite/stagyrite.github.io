@@ -20,8 +20,7 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 # Contact me
 
 appendMe = map { x -> x + " me" }
-headersCsv = "About,Contact"
-headers = split(headersCsv, ",")
+headers = split("About,Contact", ",")
 headers | appendMe | stdout
 ```
 
