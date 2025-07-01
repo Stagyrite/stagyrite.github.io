@@ -16,12 +16,12 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 
 ```ruby
 # Output:
-# About me
-# Contact me
+# — About me —
+# — Contact me —
 
-append = map { x -> x + " me" }
-headers = ["About", "Contact"]
-headers | append | stdout
+format = map { x -> "— " + x + " me —" }
+words = ["About", "Contact"]
+words | format | stdout
 ```
 
 ## Contact me
