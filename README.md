@@ -19,9 +19,9 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 # About me
 # Contact me
 
-appendMe = map { x -> x + " me" }
-headers = split("About,Contact", ",")
-headers | appendMe | stdout
+append = map { x -> x + " me" }
+headers = ["About", "Contact"]
+headers | append | stdout
 ```
 
 ## Contact me
