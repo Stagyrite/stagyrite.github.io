@@ -37,4 +37,4 @@ headers | appendMe | stdout
 
 ---
 
-[Stagyrite](https://stagyrite.github.io/ "Maciej Matiaszowski &#124; Stagyrite")
+🎓🔖⚛👺
