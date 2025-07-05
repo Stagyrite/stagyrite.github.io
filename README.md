@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a Java programmer [certified by Oracle](stagyrite "Stagyrite &#124; Profile"), here for lifelong learning away from social cliques. In real life, I can be either optimistic, fatalistic, or pessimistic; therefore, I'd choose to be a fatalist. I'd see the world the way it is, neither better nor worse. At the risk of repeating myself, or just in other words, neither maximizing my gain nor minimizing my loss 🐦‍🔥.
+I'm a Java programmer [certified by Oracle](stagyrite "Stagyrite &#124; Profile"), here for lifelong learning away from social cliques. In real life, I can be either optimistic, fatalistic, or pessimistic; therefore, I'd choose to be a fatalist. I'd see the world the way it is, neither better nor worse. At the risk of repeating myself, or just in other words, neither maximizing gain nor minimizing loss 🐦‍🔥.
 
 I'm a programmer by profession and education, and I recently received the [international certificates](https://pl.pinterest.com/terroratorium/specialist-certification/ "Pinterest"). Java, architecture and databases are within [my area](http://javablackbelt-rip.org/ "http://javablackbelt-rip.org/"). I like to [camp](https://copernix.io/#?where=15.29,54.143889,14&?query=&?map_type=hybrid "Copernix - Know thy World") at the Baltic Sea when I have a few weeks of free time. I learn [foreign languages](languages "Languages &#124; Stagyrite"), and despite knowing both English and German, I know more than a few sentences in French. I wander through [a forest](https://copernix.io/#?where=16.86239573690688,51.15963462572615,20&?query=&?map_type=hybrid "Copernix - Know thy World") in my free time, notwithstanding the above activities and considerations.
 
