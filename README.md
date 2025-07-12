@@ -16,7 +16,7 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 
 ## Contact me
 
-[![avatar](images/avatar.png)](https://stagyrite.github.io/stagyrite/ "Stagyrite &#124; Profile")
+![avatar](images/avatar.png)
 
 * Maciej Matiaszowski
 * Email: [maciej.matiaszowski@gmail.com](mailto:maciej.matiaszowski@gmail.com?subject=Stagyrite%27s%20Private%20Homepage "Email me")
