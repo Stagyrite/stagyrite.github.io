@@ -40,14 +40,14 @@ get = {
     case [x, *y], 0 -> x
     case [x, *y], n -> get(y, n - 1)
 }
-
-data = csv()
-fin = fread("input.csv")
-["int,string,string,string"] | data
-["id,platform,nickname,url"] | data
 isYouTube = { x -> get(x, 1) == "YouTube" }
 getUrl = { x -> get(x, 3) }
-fin | data | filter(isYouTube) | map(getUrl) | stdout
+
+data = csv()
+["int,string,string,string"] | data
+["id,platform,nickname,url"] | data
+stream = fread("input.csv") | data
+stream | filter(isYouTube) | map(getUrl) | stdout
 ```
 
 ---
