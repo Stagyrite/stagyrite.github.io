@@ -12,7 +12,7 @@ My hobbies include hiking, camping, [going to the cinema](cinema "Vintage film p
 
 To keep the long story short, my professional skills include Java, DevOps, dotCMS, Hibernate, IDE, JavaScript, Perl, Raku, SQL, and Spring. By IDE, I mainly mean IntelliJ IDEA and Eclipse, although I also worked with NetBeans. I've even done a fun project with WebStorm, but either Emacs or Vim should be excluded from the list of IDEs. Nevertheless, I used Vim at school and, more recently, Emacs to further educate myself in SML. 
 
-Notwithstanding the above, five programming languages are worth knowing: Java, JavaScript, SQL, Perl, and Raku. It's all a not-so-recent opinion, and therefore, replacements are allowed, for instance, Haskell, Erlang, or Ruby. C++ would be an interesting replacement, as one can handle concurrency differently than in Java. I speak Streem, a stream-based prototype, but the opinion doesn’t fluctuate so extreme for it to matter.
+Notwithstanding the above, five programming languages are worth knowing: Java, JavaScript, SQL, Perl, and Raku. It's all a not-so-recent opinion, and therefore, replacements are allowed, for instance, Haskell, Erlang, or Ruby. C++ would be an interesting replacement, as one can handle concurrency differently than in Java. I speak Streem, a stream-based prototype, but the opinion doesn’t fluctuate so extremely for it to matter.
 
 ## Contact me
 
@@ -23,15 +23,6 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 * X: [@effconia](https://x.com/effconia "Maciej Matiaszowski (@effconia) / X")
 * Homepage: [Stagyrite.GitHub.io](https://stagyrite.github.io/# "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
-
-### Related to YouTube
-
-* **Eltikia**
-* Homepage: [Eltikia.GitHub.io](https://Eltikia.github.io/ "Maciej Matiaszowski &#124; Eltikia")
-* GitHub: [GitHub/Eltikia](https://github.com/Eltikia/ "Eltikia (Maciej Matiaszowski)")
-* **Kironia**
-* Homepage: [Kironia.GitHub.io](https://Kironia.github.io/ "Maciej Matiaszowski &#124; Kironia")
-* GitHub: [GitHub/Kironia](https://github.com/Kironia/ "Kironia (Maciej Matiaszowski)")
 
 #### Speaking Streem
 
