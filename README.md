@@ -27,24 +27,27 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 #### Speaking Streem
 
 ```ruby
-# Input:
-# — Contact me —
-# 1,stagyrite.github.io,@Stagyrite
-# — Related to YouTube —
-# 2,kironia.github.io,@kironia
-# 3,eltikia.github.io,@eltikia
+# Input file:
+# 1,GitHub,Stagyrite,https://Stagyrite.GitHub.io
+# 2,GitHub,eltikia,https://Eltikia.GitHub.io
+# 3,GitHub,kironia,https://Kironia.GitHub.io
+# 4,YouTube,eltikia,https://youtube.com/@eltikia
 # 
-# Output:
-# ["number", "string", "string"]
-# [number:"id", string:"homepage", string:"github"]
-# ["1", "stagyrite.github.io", "@Stagyrite"]
-# ["2", "kironia.github.io", "@kironia"]
-# ["3", "eltikia.github.io", "@eltikia"]
+# Output: https://youtube.com/@eltikia
+
+get = {
+    case [], _ -> nil
+    case [x, *y], 0 -> x
+    case [x, *y], n -> get(y, n - 1)
+}
 
 data = csv()
-["number,string,string"] | data
-["id,homepage,github"] | data
-stdin | data | stdout
+fin = fread("input.csv")
+["int,string,string,string"] | data
+["id,platform,nickname,url"] | data
+isYouTube = { x -> get(x, 1) == "YouTube" }
+getUrl = { x -> get(x, 3) }
+fin | data | filter(isYouTube) | map(getUrl) | stdout
 ```
 
 ---
