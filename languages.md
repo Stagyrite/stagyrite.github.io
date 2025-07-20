@@ -10,19 +10,11 @@
 
 ### Speaking streem
 
-#### ./streem 04emit.strm
+#### ./streem 02hello.strm
 
 ```ruby
-# repeat twice
-repeat = { x-> emit x, x }
-fout = fwrite("99Luftballoons.txt")
-seq(99) | map(repeat) | fout
-# output:
-#  1
-#  1
-#  2
-#  2
-#  :
+# Array can be a source of Stream pipeline
+["Hello World"] | stdout
 ```
 
 ---
