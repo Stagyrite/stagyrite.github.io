@@ -34,7 +34,7 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 # 2,GitHub,eltikia,https://Eltikia.GitHub.io
 # 3,GitHub,kironia,https://Kironia.GitHub.io
 # 4,YouTube,eltikia,https://youtube.com/@eltikia
-# 
+#
 # Output: https://youtube.com/@eltikia
 
 get = {
