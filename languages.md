@@ -1,6 +1,6 @@
 # Languages
 
-## Language proficiency
+## My language proficiency
 
 | 🔢 | 🎌 | Language | [CEFR](https://stagyrite.github.io/languages#proficiency--stdout "Common European Framework of Reference for Languages") |
 | :---: |  :---: | :---: | :---: |
@@ -13,7 +13,7 @@
 #### ./streem 11hw.strm
 
 ```ruby
-# traditional hello world program
+# 🎌 traditional hello world program
 ["hello, world"] | stdout
 # output: hello, world
 ```
