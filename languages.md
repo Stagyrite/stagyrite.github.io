@@ -10,11 +10,12 @@
 
 ### Speaking streem
 
-#### ./streem 02hello.strm
+#### ./streem 11hw.strm
 
 ```ruby
-# Array can be a source of Stream pipeline
-["Hello World"] | stdout
+# traditional hello world program
+["hello, world"] | stdout
+# output: hello, world
 ```
 
 ---
