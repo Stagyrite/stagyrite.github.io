@@ -26,6 +26,8 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 
 #### Speaking Streem
 
+##### ./streem contacts.strm
+
 ```ruby
 # Input file:
 # 1,GitHub,Stagyrite,https://Stagyrite.GitHub.io
