@@ -8,8 +8,6 @@
 | 2️⃣ | 🇩🇪 | German | [A2](https://stagyrite.github.io/languages#proficiency--stdout "Pre-intermedìate") |
 | 5️⃣ | 🇵🇱 | Polish | [N](https://stagyrite.github.io/languages#proficiency--stdout "Native") |
 
-## Duolingo: [Duolingo/macmatia](https://www.duolingo.com/profile/macmatia "Duolingo - The world's best way to learn a language")
-
 ---
 
 🔵⚪️⛵️🧿
