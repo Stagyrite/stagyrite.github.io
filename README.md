@@ -42,7 +42,6 @@ get = {
 }
 isYouTube = { x -> get(x, 1) == "YouTube" }
 getUrl = { x -> get(x, 3) }
-
 data = csv()
 ["int,string,string,string"] | data
 ["id,platform,nickname,url"] | data
