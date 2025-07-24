@@ -8,6 +8,24 @@
 | 2️⃣ | 🇩🇪 | German | [A2](https://stagyrite.github.io/languages#proficiency--stdout "Pre-intermedìate. But one day I will say: Intermediate") |
 | 3️⃣ | 🇵🇱 | Polish | [N](https://stagyrite.github.io/languages#proficiency--stdout "Native") |
 
+#### Speaking Streem
+
+##### ./streem languageVersions.strm
+
+```ruby
+# Output:
+# Grasrechen
+
+name = "Grabie do trawy"
+translations = kvs()
+translations.put(name, "Grasrechen")
+product = kvs()
+product.put("name", name)
+product.put("name_de", name)
+product.update("name_de") { x -> translations.get(x) }
+print(product.get("name_de"))
+```
+
 ---
 
 🔵⚪️⛵️🧿
