@@ -29,7 +29,8 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 ##### ./streem contacts.strm
 
 ```ruby
-# Input file:
+# contacts.csv:
+# id,platform,nickname,url
 # 1,GitHub,Stagyrite,https://Stagyrite.GitHub.io
 # 2,GitHub,eltikia,https://Eltikia.GitHub.io
 # 3,GitHub,kironia,https://Kironia.GitHub.io
@@ -44,8 +45,7 @@ isYouTube = { x -> get(x, 1) == "YouTube" }
 getUrl = { x -> get(x, 3) }
 data = csv()
 ["int,string,string,string"] | data
-["id,platform,nickname,url"] | data
-stream = fread("input.csv") | data
+stream = fread("contacts.csv") | data
 stream | filter(isYouTube) | map(getUrl) | stdout
 # Output: https://youtube.com/@eltikia
 ```
