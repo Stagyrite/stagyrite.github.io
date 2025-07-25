@@ -13,30 +13,6 @@
 ##### ./streem languageVersions.strm
 
 ```ruby
-name = "lawn rake"
-translations = kvs()
-translations.put(name + "_pl", "Grabie do trawy")
-translations.put(name + "_fr", "Râteau à gazon")
-translations.put(name + "_de", "Grasrechen")
-product = kvs()
-product.put("name", name)
-product.put("name_pl", name)
-product.put("name_fr", name)
-product.put("name_de", name)
-product.update("name_pl") { x -> translations.get(x + "_pl") }
-product.update("name_fr") { x -> translations.get(x + "_fr") }
-product.update("name_de") { x -> translations.get(x + "_de") }
-print("🇫🇷 " + product.get("name_fr"))
-# Output: 🇫🇷 Râteau à gazon
-```
-
-##### ./streem translations.strm
-
-```ruby
-# translations.csv:
-# name,name_pl,name_fr,name_de
-# lawn rake,Grabie do trawy,Râteau à gazon,Grasrechen
-
 get = {
     case [], _ -> nil
     case [x, *y], 0 -> x
@@ -45,19 +21,19 @@ get = {
 
 getName = (x, language) -> {
 
-	if (language == "en") {
-		index = 0
-	} else if (language == "pl") {
-		index = 1
-	} else if (language == "fr") {
-		index = 2
-	} else if (language == "de") {
-		index = 3
-	} else {
-		""
-	}
-	
-	get(x, index)
+        if (language == "en") {
+                index = 0
+        } else if (language == "pl") {
+                index = 1
+        } else if (language == "fr") {
+                index = 2
+        } else if (language == "de") {
+                index = 3
+        } else {
+                ""
+        }
+
+        get(x, index)
 }
 
 hasName = (x, english) -> { getName(x, "en") == english }
@@ -66,13 +42,30 @@ translationsCsv = csv()
 stream = fread("translations.csv") | translationsCsv
 
 translate = (english, language) -> {
-	thisFilter = filter{ x -> hasName(x, english) }
-	translateThis = { x -> getName(x, language) }
-	translationsCsv | thisFilter | translateThis
+        thisFilter = filter{ x -> hasName(x, english) }
+        translateThis = map { x -> getName(x, language) }
+        translationsCsv | thisFilter | translateThis
 }
 
-name = "lawn rake"
-translate(name, "fr") | map { x -> "🇫🇷 " + x } | stdout
+translations = kvs()
+product = kvs()
+
+translateProduct = (name) -> {
+        translations.put(name + "_pl", translate(name, "pl"))
+        translations.put(name + "_fr", translate(name, "fr"))
+        translations.put(name + "_de", translate(name, "de"))
+        product.put("name", name)
+        product.put("name_pl", name)
+        product.put("name_fr", name)
+        product.put("name_de", name)
+        product.update("name_pl") { x -> translations.get(x + "_pl") }
+        product.update("name_fr") { x -> translations.get(x + "_fr") }
+        product.update("name_de") { x -> translations.get(x + "_de") }
+}
+
+translateProduct("lawn rake")
+product.get("name_fr") | map { x -> "🇫🇷 " + x } | stdout
+
 # Output: 🇫🇷 Râteau à gazon
 ```
 
