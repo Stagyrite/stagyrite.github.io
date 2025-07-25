@@ -43,7 +43,7 @@ get = {
     case [x, *y], n -> get(y, n - 1)
 }
 
-translator = (x, language) -> {
+getName = (x, language) -> {
 
 	if (language == "en") {
 		index = 0
@@ -60,13 +60,13 @@ translator = (x, language) -> {
 	get(x, index)
 }
 
-hasName = (x, english) -> { get(x, 0) == english }
+hasName = (x, english) -> { getName(x, "en") == english }
 translationsCsv = csv()
 ["string,string,string,string"] | translationsCsv
 stream = fread("translations.csv") | translationsCsv
 
 translate = (english, language) -> {
-	translationsCsv | filter{ x -> hasName(x, english) } | { x -> translator(x, language) }
+	translationsCsv | filter{ x -> hasName(x, english) } | { x -> getName(x, language) }
 }
 
 name = "lawn rake"
