@@ -14,16 +14,24 @@
 
 ```ruby
 # Output:
-# Grasrechen
+# 🇬🇧 lawn rake
+# 🇫🇷 Râteau à gazon
 
-name = "Grabie do trawy"
+name = "lawn rake"
 translations = kvs()
-translations.put(name, "Grasrechen")
+translations.put(name + "_pl", "Grabie do trawy")
+translations.put(name + "_fr", "Râteau à gazon")
+translations.put(name + "_de", "Grasrechen")
 product = kvs()
 product.put("name", name)
+product.put("name_pl", name)
+product.put("name_fr", name)
 product.put("name_de", name)
-product.update("name_de") { x -> translations.get(x) }
-print(product.get("name_de"))
+print("🇬🇧 " + product.get("name_fr"))
+product.update("name_pl") { x -> translations.get(x + "_pl") }
+product.update("name_fr") { x -> translations.get(x + "_fr") }
+product.update("name_de") { x -> translations.get(x + "_de") }
+print("🇫🇷 " + product.get("name_fr"))
 ```
 
 ---
