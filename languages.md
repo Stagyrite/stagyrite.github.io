@@ -13,9 +13,6 @@
 ##### ./streem languageVersions.strm
 
 ```ruby
-# Output:
-# 🇫🇷 Râteau à gazon
-
 name = "lawn rake"
 translations = kvs()
 translations.put(name + "_pl", "Grabie do trawy")
@@ -30,6 +27,7 @@ product.update("name_pl") { x -> translations.get(x + "_pl") }
 product.update("name_fr") { x -> translations.get(x + "_fr") }
 product.update("name_de") { x -> translations.get(x + "_de") }
 print("🇫🇷 " + product.get("name_fr"))
+# Output: 🇫🇷 Râteau à gazon
 ```
 
 ##### ./streem translations.strm
@@ -38,9 +36,6 @@ print("🇫🇷 " + product.get("name_fr"))
 # translations.csv:
 # name,name_pl,name_fr,name_de
 # lawn rake,Grabie do trawy,Râteau à gazon,Grasrechen
-#
-# Output:
-# 🇫🇷 Râteau à gazon
 
 get = {
     case [], _ -> nil
@@ -77,6 +72,7 @@ translate = (english, language) -> {
 
 name = "lawn rake"
 translate(name, "fr") | map { x -> "🇫🇷 " + x } | stdout
+# Output: 🇫🇷 Râteau à gazon
 ```
 
 ---
