@@ -66,7 +66,9 @@ translationsCsv = csv()
 stream = fread("translations.csv") | translationsCsv
 
 translate = (english, language) -> {
-	translationsCsv | filter{ x -> hasName(x, english) } | { x -> getName(x, language) }
+	thisFilter = filter{ x -> hasName(x, english) }
+	translateThis = { x -> getName(x, language) }
+	translationsCsv | thisFilter | translateThis
 }
 
 name = "lawn rake"
