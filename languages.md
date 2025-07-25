@@ -10,11 +10,57 @@
 
 #### Speaking Streem
 
+##### ./streem translations.strm
+
+```ruby
+# translations.csv:
+# name,name_pl,name_fr,name_de
+# lawn rake,Grabie do trawy,Râteau à gazon,Grasrechen
+#
+# Output:
+# 🇫🇷 Râteau à gazon
+
+get = {
+    case [], _ -> nil
+    case [x, *y], 0 -> x
+    case [x, *y], n -> get(y, n - 1)
+}
+
+translationsCsv = csv()
+["string,string,string,string"] | translationsCsv
+stream = fread("translations.csv") | translationsCsv
+
+translator = (x, language) -> {
+
+	if (language == "en") {
+		index = 0
+	} else if (language == "pl") {
+		index = 1
+	} else if (language == "fr") {
+		index = 2
+	} else if (language == "de") {
+		index = 3
+	} else {
+		""
+	}
+	
+	get(x, index)
+}
+
+hasName = (x, english) -> { get(x, 0) == english }
+
+translate = (english, language) -> {
+	translationsCsv | filter{ x -> hasName(x, english) } | { x -> translator(x, language) }
+}
+
+name = "lawn rake"
+translate(name, "fr") | map { x -> "🇫🇷 " + x } | stdout
+```
+
 ##### ./streem languageVersions.strm
 
 ```ruby
 # Output:
-# 🇬🇧 lawn rake
 # 🇫🇷 Râteau à gazon
 
 name = "lawn rake"
@@ -27,7 +73,6 @@ product.put("name", name)
 product.put("name_pl", name)
 product.put("name_fr", name)
 product.put("name_de", name)
-print("🇬🇧 " + product.get("name_fr"))
 product.update("name_pl") { x -> translations.get(x + "_pl") }
 product.update("name_fr") { x -> translations.get(x + "_fr") }
 product.update("name_de") { x -> translations.get(x + "_de") }
