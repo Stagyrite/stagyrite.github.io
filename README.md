@@ -12,7 +12,7 @@ My hobbies include hiking, camping, [going to the cinema](cinema "Vintage film p
 
 To keep the long story short, my professional skills include Java, DevOps, dotCMS, Hibernate, IDE, JavaScript, Perl, Raku, SQL, and Spring. By IDE, I mainly mean IntelliJ IDEA and Eclipse, although I also worked with NetBeans, WebStorm and PyCharm. I've even done a fun project with WebStorm, but either Emacs or Vim should be excluded from the list of IDEs. Nevertheless, I used Vim at school and, more recently, Emacs to further educate myself in SML. 
 
-Notwithstanding the above, five programming languages are worth knowing: Java, JavaScript, SQL, Perl, and Raku. It's all a not-so-recent opinion, and therefore, replacements are allowed, for instance, Python. C++ would be an interesting alternative, as it provides for handling concurrency differently from Java. I [speak Streem](https://stagyrite.github.io/screemer/ "screemer &#124; Stagyrite"), a stream-based prototype, but the opinion doesn’t fluctuate so extremely for it to matter.
+Notwithstanding the above, five programming languages are worth knowing: Java, JavaScript, SQL, Perl, and Raku. It's all a not-so-recent opinion, and therefore, replacements are allowed, for instance, Haskell or Python. C++ would be an interesting alternative, as it provides for handling concurrency differently from Java. I [speak Streem](https://stagyrite.github.io/screemer/ "screemer &#124; Stagyrite"), a stream-based prototype, but the opinion doesn’t fluctuate so extremely for it to matter.
 
 ## Contact me
 
