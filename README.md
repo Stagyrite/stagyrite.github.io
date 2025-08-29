@@ -1,5 +1,8 @@
 # Maciej Matiaszowski 
 
+[![Build Status](https://github.com/Stagyrite/stagyrite.github.io/workflows/ci/badge.svg)](https://github.com/Stagyrite/stagyrite.github.io/actions?query=workflow%3Aci)
+[![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 🐉 Master of Computer Science 🐉 Oracle Certified Java Professional 🐉
 
 ## About me
