@@ -40,16 +40,19 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 
 #### Speaking Streem
 
+#### contacts.csv
+
+```csv
+id,platform,nickname,url
+1,GitHub,Stagyrite,https://Stagyrite.GitHub.io
+2,GitHub,eltikia,https://Eltikia.GitHub.io
+3,GitHub,kironia,https://Kironia.GitHub.io
+4,YouTube,eltikia,https://youtube.com/@eltikia
+```
+
 ##### ./streem contacts.strm
 
 ```ruby
-# contacts.csv:
-# id,platform,nickname,url
-# 1,GitHub,Stagyrite,https://Stagyrite.GitHub.io
-# 2,GitHub,eltikia,https://Eltikia.GitHub.io
-# 3,GitHub,kironia,https://Kironia.GitHub.io
-# 4,YouTube,eltikia,https://youtube.com/@eltikia
-
 get = {
     case [], _ -> nil
     case [x, *y], 0 -> x
