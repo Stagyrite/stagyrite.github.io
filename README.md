@@ -16,8 +16,8 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 
 ### Publications
 
-1. "Speaking Streem demistified: a Shell-like programming language prototype" 2025 (***uploading soon***)
-1. "Streem demistified again: a well-documented programming language prototype" (future)
+1. "Speaking Streem demistified: a Shell-like programming language prototype" 2025 (_uploading soon_)
+1. "Streem demistified again: a well-documented programming language prototype" (_future_)
 
 ## Contact me
 
