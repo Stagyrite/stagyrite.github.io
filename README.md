@@ -30,11 +30,11 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 
 * Maciej Matiaszowski
 * Email: [maciej.matiaszowski@gmail.com](mailto:maciej.matiaszowski@gmail.com?subject=Stagyrite%27s%20Private%20Homepage "Email me")
-* Gitter: [stagyrite/kasette](https://matrix.to/#/#kasette:gitter.im "Gitter")
+* Gitter: [stagyrite/kasette](https://gitter.im/stagyrite/kasette "Gitter")
 * Homepage: [Stagyrite.GitHub.io](https://stagyrite.github.io/# "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
-### [Kasette!](https://matrix.to/#/#kasette:gitter.im "Gitter")
+### [Kasette!](https://gitter.im/stagyrite/kasette "Gitter")
 
 ```plain
   _________
