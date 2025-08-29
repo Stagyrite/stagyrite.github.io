@@ -2,7 +2,7 @@
 
 [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Master of Computer Science || Oracle Certified Professional || Java guru || Python hacker
+Master of Computer Science || Oracle Certified Professional || Java guru || Python hacker || [Kasette!](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) owner
 
 ## About me
 
@@ -36,7 +36,7 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 * Homepage: [Stagyrite.GitHub.io](https://stagyrite.github.io/# "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
-### [Kasette!]((https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+### [Kasette!](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ```plain
   _________
