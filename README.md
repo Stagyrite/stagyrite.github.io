@@ -1,6 +1,6 @@
 # Maciej Matiaszowski 
 
-[![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter")
 
 Master of Science \| Oracle Certified Professional \| Python hacker
 
@@ -32,7 +32,7 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 
 * Maciej Matiaszowski
 * Email: [maciej.matiaszowski@gmail.com](mailto:maciej.matiaszowski@gmail.com?subject=Stagyrite%27s%20Private%20Homepage "Email me")
-* Gitter: [stagyrite/kasette](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+* Gitter: [stagyrite/kasette](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter")
 * Homepage: [Stagyrite.GitHub.io](https://stagyrite.github.io/# "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
