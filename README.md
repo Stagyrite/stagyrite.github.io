@@ -2,7 +2,7 @@
 
 [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter")
 
-🖭 Master of Computer Science 🖭 Oracle Certified Java Professional 🖭
+📼 [Master of Computer Science](https://integro.cen.info.pl/ici/recorddetail?id=oai%3Apolona.pl%3A36345879 "Wielokryterialny system rozdziału zadań z wykorzystaniem algorytmów genetycznych - OpacWWW - Prolib Integro") 📼 [Oracle Certified Java Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9975082503C1283F2B41AA028D2DFA4763196DD3CB7F09D0B0D7BF65DCFCEABA "Oracle Certified Professional, Java SE 8 Programmer") 📼
 
 ## About me
 
