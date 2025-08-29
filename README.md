@@ -29,15 +29,6 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 * Homepage: [Stagyrite.GitHub.io](https://stagyrite.github.io/# "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
-### [Kasette!](https://gitter.im/stagyrite/kasette "Gitter")
-
-```plain
-  _________
- |   ___   |
- |  o___o  |
- |__/___\__|
-```
-
 #### Speaking Streem
 
 ##### contacts.csv
