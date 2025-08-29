@@ -16,8 +16,8 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 
 ### Publications
 
-1. ***Speaking Streem demystified: a Shell-like programming language prototype.*** [TODO] Kasette! 2025. See also [its GitHub repository](https://stagyrite.github.io/screemer/ "Screemer &#124; 🎌 STREEEEEEEEEEM 🎌").
-1. ***Streem demistified again: a well-documented programming language prototype.*** [TODO] Kasette! 2026.
+1. ***Speaking Streem demystified: a Shell-like programming language prototype.*** \[pdf\] Kasette! 2025. See also [its GitHub repository](https://stagyrite.github.io/screemer/ "Screemer &#124; 🎌 STREEEEEEEEEEM 🎌").
+1. ***Streem demistified again: a well-documented programming language prototype.*** Future Kasette!.
 
 ## Contact me
 
