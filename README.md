@@ -1,8 +1,8 @@
 # Maciej Matiaszowski 
 
-[![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter")
 
-🇵🇱 Master of Computer Science 🇺🇸 Oracle Certified Java Professional 🇩🇪
+🖭 Master of Computer Science 🖭 Oracle Certified Java Professional 🖭
 
 ## About me
 
