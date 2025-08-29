@@ -1,5 +1,7 @@
 # Maciej Matiaszowski 
 
+[![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## About me
 
 I'm a Java programmer [certified by Oracle](stagyrite "Stagyrite &#124; Profile"), here for lifelong learning and to avoid social cliques. In real life, I can be either optimistic, pessimistic, or fatalistic; therefore, I'd choose to be an [optimist](https://eltikia.github.io/eltikia/#beliefs-changed-to-atheism "Java skills &#124; Eltikia"). However, a fatalist tries to see the world as it is, imagining it neither better nor worse, neither maximising gain nor minimising loss. In other words, either finite or completely infinite. Enough stories of fatalist-pessimist-optimist relations, although they effectively strain relationships.
@@ -32,7 +34,7 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 * Homepage: [Stagyrite.GitHub.io](https://stagyrite.github.io/# "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
-### Kasette!
+### [Kasette!]((https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ```plain
   _________
