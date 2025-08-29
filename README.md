@@ -36,9 +36,10 @@ Notwithstanding the above, five programming languages are worth knowing: Java, J
 ```csv
 id,platform,nickname,url
 1,GitHub,Stagyrite,https://Stagyrite.GitHub.io
-2,GitHub,eltikia,https://Eltikia.GitHub.io
-3,GitHub,kironia,https://Kironia.GitHub.io
+2,Gitter,Stagyrite,https://gitter.im/stagyrite/kasette
+3,GitHub,eltikia,https://Eltikia.GitHub.io
 4,YouTube,eltikia,https://youtube.com/@eltikia
+5,GitHub,kironia,https://Kironia.GitHub.io
 ```
 
 ##### ./streem contacts.strm
