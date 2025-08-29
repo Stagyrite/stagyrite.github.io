@@ -2,7 +2,7 @@
 
 [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Master of Computer Science || Oracle Certified Professional || Java guru || Python hacker || [Kasette!](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) owner
+Master of Computer Science \| Oracle Certified Professional \| Java guru \| Python hacker \| [Kasette!](https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) owner
 
 ## About me
 
