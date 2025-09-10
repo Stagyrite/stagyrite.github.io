@@ -28,6 +28,9 @@ Notwithstanding the above, five programming languages are worth knowing: Java, P
 * Homepage: [Stagyrite.GitHub.io](https://stagyrite.github.io/# "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
+<details>
+<summary>Speaking Streem</summary>
+
 #### Speaking Streem
 
 ##### contacts.csv
@@ -57,6 +60,8 @@ stream = fread("contacts.csv") | data
 stream | filter(isYouTube) | map(getUrl) | stdout
 # Output: https://youtube.com/@eltikia
 ```
+
+</details>
 
 ---
 
