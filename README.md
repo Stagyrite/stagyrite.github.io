@@ -47,9 +47,6 @@ stream | filter(isYouTube) | map(getUrl) | stdout
 # Output: https://youtube.com/@eltikia
 ```
 
-<details>
-<summary>contacts.csv</summary>
-
 ##### contacts.csv
 
 ```csv
@@ -60,8 +57,6 @@ id,platform,nickname,url
 4,YouTube,eltikia,https://youtube.com/@eltikia
 5,GitHub,kironia,https://Kironia.GitHub.io
 ```
-
-</details>
 
 ---
 
