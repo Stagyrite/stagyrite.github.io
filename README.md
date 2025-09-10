@@ -28,21 +28,7 @@ Notwithstanding the above, five programming languages are worth knowing: Java, P
 * Homepage: [Stagyrite.GitHub.io](https://stagyrite.github.io/# "Maciej Matiaszowski &#124; Stagyrite")
 * GitHub: [GitHub/Stagyrite](https://github.com/Stagyrite/ "Stagyrite (Maciej Matiaszowski)")
 
-<details>
-<summary>Speaking Streem</summary>
-
 #### Speaking Streem
-
-##### contacts.csv
-
-```csv
-id,platform,nickname,url
-1,GitHub,Stagyrite,https://Stagyrite.GitHub.io
-2,Gitter,Stagyrite,https://gitter.im/stagyrite/kasette
-3,GitHub,eltikia,https://Eltikia.GitHub.io
-4,YouTube,eltikia,https://youtube.com/@eltikia
-5,GitHub,kironia,https://Kironia.GitHub.io
-```
 
 ##### ./streem contacts.strm
 
@@ -59,6 +45,20 @@ data = csv()
 stream = fread("contacts.csv") | data
 stream | filter(isYouTube) | map(getUrl) | stdout
 # Output: https://youtube.com/@eltikia
+```
+
+<details>
+<summary>contacts.csv</summary>
+
+##### contacts.csv
+
+```csv
+id,platform,nickname,url
+1,GitHub,Stagyrite,https://Stagyrite.GitHub.io
+2,Gitter,Stagyrite,https://gitter.im/stagyrite/kasette
+3,GitHub,eltikia,https://Eltikia.GitHub.io
+4,YouTube,eltikia,https://youtube.com/@eltikia
+5,GitHub,kironia,https://Kironia.GitHub.io
 ```
 
 </details>
