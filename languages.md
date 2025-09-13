@@ -1,6 +1,6 @@
 # Languages
 
-## My language proficiency
+## Language proficiency
 
 | 🔢 | 🇫🇷 | Language | [CEFR](https://stagyrite.github.io/languages#my-language-proficiency "Common European Framework of Reference for Languages") |
 | :---: |  :---: | :---: | :---: |
