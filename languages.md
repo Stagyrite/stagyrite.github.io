@@ -4,7 +4,7 @@
 
 | 🔢 | 🇫🇷 | Language | [CEFR](https://stagyrite.github.io/languages#my-language-proficiency "Common European Framework of Reference for Languages") |
 | :---: |  :---: | :---: | :---: |
-| 1️⃣ | 🇬🇧 | English | [B1](https://stagyrite.github.io/languages#my-language-proficiency "Intermediate. But one day I will say: Post-intermediate") |
+| 1️⃣ | 🇬🇧 | English | [B2](https://stagyrite.github.io/languages#my-language-proficiency "Post-Intermediate") |
 | 2️⃣ | 🇩🇪 | German | [A2](https://stagyrite.github.io/languages#my-language-proficiency "Pre-intermedìate. But one day I will say: Intermediate") |
 | 3️⃣ | 🇵🇱 | Polish | [N](https://stagyrite.github.io/languages#my-language-proficiency "Native") |
 
