@@ -6,7 +6,7 @@
 | :---: |  :---: | :---: | :---: |
 | 1️⃣ | 🇬🇧 | English | [B2](https://stagyrite.github.io/languages#my-language-proficiency "Post-Intermediate") |
 | 2️⃣ | 🇩🇪 | German | [B1](https://stagyrite.github.io/languages#my-language-proficiency "Intermedìate") |
-| 3️⃣ | 🇫🇷 | French| [A1](https://stagyrite.github.io/languages#my-language-proficiency "Beginner. But one day I will say: Pre-Intermediate") |
+| 3️⃣ | 🇫🇷 | French | [A2](https://stagyrite.github.io/languages#my-language-proficiency "Pre-Intermediate") |
 | 4️⃣ | 🇵🇱 | Polish | [N](https://stagyrite.github.io/languages#my-language-proficiency "Native") |
 
 #### Speaking Streem
