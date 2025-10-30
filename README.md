@@ -30,7 +30,7 @@ Notwithstanding the above, five programming languages are worth knowing: Java, P
 
 #### Speaking Streem
 
-##### ./[streem](https://stagyrite.github.io/streem/doc/ "Streem documentation &#124; Streem") [contacts.strm](https://github.com/Stagyrite/stagyrite.github.io/blob/main/contacts.strm "stagyrite.github.io/contacts.strm at main · Stagyrite/stagyrite.github.io")
+##### ./[streem](https://stagyrite.github.io/streemdox/ "Streem documentation project &#124; Streemdox") [contacts.strm](https://github.com/Stagyrite/stagyrite.github.io/blob/main/contacts.strm "stagyrite.github.io/contacts.strm at main · Stagyrite/stagyrite.github.io")
 
 ```ruby
 get = {
