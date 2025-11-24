@@ -52,7 +52,7 @@ stream | filter(isYouTube) | map(getUrl) | stdout
 ```csv
 id,platform,nickname,url
 1,GitHub,Stagyrite,https://Stagyrite.GitHub.io
-2,Gitter,Stagyrite,https://gitter.im/stagyrite/kasette
+2,Gitter,Stagyrite,https://matrix.to/#/#kassette:gitter.im
 3,GitHub,eltikia,https://Eltikia.GitHub.io
 4,YouTube,eltikia,https://youtube.com/@eltikia
 5,GitHub,kironia,https://Kironia.GitHub.io
