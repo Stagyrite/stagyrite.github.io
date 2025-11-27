@@ -8,10 +8,10 @@ All the examples would compile with
 hd \[x\_<sub>1</sub>, …, x\_<sub>n</sub>\] = x\_<sub>1</sub>
 
 ```sml
-    exception Hd;
+exception Hd;
 
-    fun hd (x::_) = x
-      | hd nil = raise Hd;
+fun hd (x::_) = x
+  | hd nil = raise Hd;
 ```
 
 ## tl
@@ -20,10 +20,10 @@ tl \[x\_<sub>1</sub>, ..., x\_<sub>n</sub>\] = \[x\_<sub>2</sub>, ...,
 x\_<sub>n</sub>\]
 
 ```sml
-    exception Tl;
+exception Tl;
 
-    fun tl (_::xs) = xs
-      | tl nil = raise Tl;
+fun tl (_::xs) = xs
+  | tl nil = raise Tl;
 ```
 
 ## last
@@ -31,11 +31,11 @@ x\_<sub>n</sub>\]
 last \[x\_<sub>1</sub>, ..., x\_<sub>n</sub>\] = x\_<sub>n</sub>
 
 ```sml
-    exception Last;
+exception Last;
 
-    fun last [x] = x
-      | last (_::xs) = last xs
-      | last nil = raise Last;
+fun last [x] = x
+  | last (_::xs) = last xs
+  | last nil = raise Last;
 ```
 
 ## member
@@ -44,9 +44,9 @@ member x \[x\_<sub>1</sub>, ..., x\_<sub>n</sub>\] is true, if and only
 there is i = 1, ..., n such that x = x\_<sub>i</sub>
 
 ```sml
-    fun member x (y::xs) = (if y = x then true 
-                else member x xs)
-      | member x nil = false;
+fun member x (y::xs) = (if y = x then true 
+            else member x xs)
+  | member x nil = false;
 ```
 
 ## exists
@@ -55,9 +55,9 @@ exists p \[x\_<sub>1</sub>, ..., x\_<sub>n</sub>\] if and only if there
 is such i = 1..n that p x\_<sub>i</sub> = true
 
 ```sml
-    fun exists p (x::xs) = (if p x = true then true
-                else exists p xs)
-      | exists p nil = false;
+fun exists p (x::xs) = (if p x = true then true
+            else exists p xs)
+  | exists p nil = false;
 ```
 
 ## forall
@@ -66,9 +66,9 @@ forall p \[x\_<sub>1</sub>, ..., x\_<sub>n</sub>\] if and only if for
 each i = 1..n p x\_<sub>i</sub> = true
 
 ```sml
-    fun forall p (x::xs) = (if p x = false then false
-                else forall p xs)
-      | forall p nil = true;
+fun forall p (x::xs) = (if p x = false then false
+            else forall p xs)
+  | forall p nil = true;
 ```
 
 ## null
@@ -77,8 +77,8 @@ null returns true, if and only if an empty list is passed as its
 argument
 
 ```sml
-    fun null nil = true    
-      | null _ = false;
+fun null nil = true    
+  | null _ = false;
 ```
 
 ## remove
@@ -88,9 +88,9 @@ elements x\_<sub>i</sub> in x\_<sub>1</sub>, ..., x\_<sub>n</sub> for
 which p x\_<sub>i</sub> is false
 
 ```sml
-    fun remove p (x::xs) = (if p x = false then x :: (remove p xs)
-                else remove p xs)
-      | remove p nil = [];
+fun remove p (x::xs) = (if p x = false then x :: (remove p xs)
+            else remove p xs)
+  | remove p nil = [];
 ```
 
 ## max
@@ -99,17 +99,17 @@ max p \[x\_<sub>1</sub>, ..., x\_<sub>n</sub>\] = x\_<sub>i</sub>, if
 x\_<sub>i</sub> is the largest element in the list of integers
 
 ```sml
-    exception Max;
+exception Max;
 
-    fun max [x] = x
-      | max (x::xs) =
-        let
-        val maxXs = max xs
-        in
-        (if x >= maxXs then x
-         else maxXs)
-        end
-      | max nil = raise Max;
+fun max [x] = x
+  | max (x::xs) =
+    let
+    val maxXs = max xs
+    in
+    (if x >= maxXs then x
+     else maxXs)
+    end
+  | max nil = raise Max;
 ```
 
 ## zip
@@ -118,11 +118,11 @@ zip (\[x\_<sub>1</sub>, …, x\_<sub>n</sub>\]) = \[(x\_<sub>1</sub>,
 y\_<sub>1</sub>), …, (x\_<sub>n</sub>, y\_<sub>n</sub>)\]
 
 ```sml
-    exception Zip;
+exception Zip;
 
-    fun zip (x::xs) (y::ys) = (x, y)::(zip xs ys)
-      | zip nil nil = nil
-      | zip _ _ = raise Zip;
+fun zip (x::xs) (y::ys) = (x, y)::(zip xs ys)
+  | zip nil nil = nil
+  | zip _ _ = raise Zip;
 ```
 
 ## unzip
@@ -132,18 +132,18 @@ y\_<sub>n</sub>)\] = (\[x\_<sub>1</sub>, …, x\_<sub>n</sub>\],
 \[y\_<sub>1</sub>, …, y\_<sub>n</sub>\])
 
 ```sml
-    exception Unzip;
+exception Unzip;
 
-    fun unzip [] = raise Unzip 
-      | unzip list =
-        let
-        fun takeX ((x, _)::xs) = (x::(takeX xs))
-          | takeX nil = []
-        fun takeY ((_, y)::ys) = (y::(takeY ys))
-          | takeY nil = [];
-        in 
-        (takeX list, takeY list)
-        end;
+fun unzip [] = raise Unzip 
+  | unzip list =
+    let
+    fun takeX ((x, _)::xs) = (x::(takeX xs))
+      | takeX nil = []
+    fun takeY ((_, y)::ys) = (y::(takeY ys))
+      | takeY nil = [];
+    in 
+    (takeX list, takeY list)
+    end;
 ```
 
 ## take
@@ -152,9 +152,9 @@ take k \[x\_<sub>1</sub>, …, x\_<sub>n</sub>\] = \[x\_<sub>1</sub>, …,
 x\_<sub>i</sub>\] where i = min(max(k, 0), n)
 
 ```sml
-    fun take k nil = []
-      | take k (x::xs) = (if k <= 0 then []
-                  else x::(take (k - 1) xs));
+fun take k nil = []
+  | take k (x::xs) = (if k <= 0 then []
+              else x::(take (k - 1) xs));
 ```
 
 ## find
@@ -163,11 +163,11 @@ find p \[x\_<sub>1</sub>, ..., x\_<sub>n</sub>\] = x\_<sub>i</sub> where
 i is the smallest index for which p x\_<sub>i</sub> is true.
 
 ```sml
-    exception Find;
+exception Find;
 
-    fun find p (x::xs) = (if p x = true then x
-                else find p xs)
-      | find p nil = raise Find;
+fun find p (x::xs) = (if p x = true then x
+            else find p xs)
+  | find p nil = raise Find;
 ```
 
 ## genList
@@ -175,8 +175,8 @@ i is the smallest index for which p x\_<sub>i</sub> is true.
 genList f n = \[f 1, f 2, ..., f n\];
 
 ```sml
-    fun genList f n = (if n > 0 then (genList f (n - 1)@[f n]) 
-                else []);
+fun genList f n = (if n > 0 then (genList f (n - 1)@[f n]) 
+            else []);
 ```
 
 ## nth
@@ -184,12 +184,12 @@ genList f n = \[f 1, f 2, ..., f n\];
 nth i \[x\_<sub>1</sub>, …, x\_<sub>n</sub>\] = x\_<sub>i</sub>;
 
 ```sml
-    exception Nth;
+exception Nth;
 
-    fun nth _ nil = raise Nth
-      | nth i (x::xs) = (if i < 1 then raise Nth
-                else if i = 1 then x 
-                else nth (i - 1) xs);
+fun nth _ nil = raise Nth
+  | nth i (x::xs) = (if i < 1 then raise Nth
+            else if i = 1 then x 
+            else nth (i - 1) xs);
 ```
 
 ## nthTail
@@ -198,11 +198,11 @@ nthTail i \[x\_<sub>1</sub>, …, x\_<sub>n</sub>\] = \[x\_<sub>i +
 1</sub>, …, x\_<sub>n</sub>\];
 
 ```sml
-    exception NthTail;
+exception NthTail;
 
-    fun nthTail _ nil = raise NthTail
-      | nthTail i (x::xs) = (if i < 1 then (x::xs)
-                else nthTail (i - 1) xs);
+fun nthTail _ nil = raise NthTail
+  | nthTail i (x::xs) = (if i < 1 then (x::xs)
+            else nthTail (i - 1) xs);
 ```
 
 ## split
@@ -211,15 +211,15 @@ split i \[x\_<sub>1</sub>, …, x\_<sub>n</sub>\] = (\[x\_<sub>1</sub>, …,
 x\_<sub>n</sub>\], \[x\_<sub>i + 1</sub>, …, x\_<sub>n</sub>\])
 
 ```sml
-    exception Split;
+exception Split;
 
-    fun split i nil = (if i = 0 then (nil, nil) else raise Split)
-      | split i (x::xs) =
-        let
-        val (l1, l2) = (if i = 0 then (nil, nil) else split (i - 1) xs)
-        in
-        (if i = 0 then (nil, (x::xs)) else (x::l1, l2))
-        end;
+fun split i nil = (if i = 0 then (nil, nil) else raise Split)
+  | split i (x::xs) =
+    let
+    val (l1, l2) = (if i = 0 then (nil, nil) else split (i - 1) xs)
+    in
+    (if i = 0 then (nil, (x::xs)) else (x::l1, l2))
+    end;
 ```
 
 ## rmDupl
@@ -228,17 +228,17 @@ rmDupl that removes duplicates from the list, i.e. all occurrences of
 each element except its first occurrence.
 
 ```sml
-    fun rmDupl l =
-        let 
-        fun member x (y::xs) = (if y = x then true 
-                    else member x xs)
-          | member x nil = false;
-        fun dupRm nil _ = nil
-          | dupRm (x::xs) unique =
-            (if (member x unique) then (dupRm xs unique) else x::(dupRm xs (x::unique))); 
-        in
-        dupRm l []
-        end;
+fun rmDupl l =
+    let 
+    fun member x (y::xs) = (if y = x then true 
+                else member x xs)
+      | member x nil = false;
+    fun dupRm nil _ = nil
+      | dupRm (x::xs) unique =
+        (if (member x unique) then (dupRm xs unique) else x::(dupRm xs (x::unique))); 
+    in
+    dupRm l []
+    end;
 ```
 
 ## prod
@@ -247,14 +247,14 @@ prod designates the product of two lists, i.e. the list of all pairs of
 elements of both lists.
 
 ```sml
-    fun prod (nil, _) = []
-      | prod ((x::xs), l) = 
-        let 
-        fun allPairs x (y::ys) = (x, y)::(allPairs x ys)
-          | allPairs _ nil = []
-        in
-        (allPairs x l)@(prod (xs, l))
-        end;
+fun prod (nil, _) = []
+  | prod ((x::xs), l) = 
+    let 
+    fun allPairs x (y::ys) = (x, y)::(allPairs x ys)
+      | allPairs _ nil = []
+    in
+    (allPairs x l)@(prod (xs, l))
+    end;
 ```
 
 ## forall (foldl)
@@ -264,7 +264,7 @@ i = 1..n p x\_<sub>i</sub> = true
 Express the given function using the foldl function.
 
 ```sml
-    fun forall p l = foldl (fn (x, acc) => acc andalso (p x)) true l;
+fun forall p l = foldl (fn (x, acc) => acc andalso (p x)) true l;
 ```
 
 ## filter (foldl/foldr)
@@ -275,7 +275,7 @@ which p x\_<sub>i</sub> is true
 Express the given function using the foldl or foldr function.
 
 ```sml
-    fun filter p l = foldr (fn (x, acc) => (if p x = true then x::acc else acc)) [] l;
+fun filter p l = foldr (fn (x, acc) => (if p x = true then x::acc else acc)) [] l;
 ```
 
 ## remove (foldl/foldr)
@@ -286,7 +286,7 @@ which p x\_<sub>i</sub> is false
 Express the given function using the foldl or foldr function.
 
 ```sml
-    fun remove p l = foldr (fn (x, acc) => (if p x = false then x::acc else acc)) [] l;
+fun remove p l = foldr (fn (x, acc) => (if p x = false then x::acc else acc)) [] l;
 ```
 
 ## flatten (foldl)
@@ -297,67 +297,67 @@ x\_<sub>n</sub>
 Express the given function using the foldl function.
 
 ```sml
-    fun flatten l = foldl (fn (x, acc) =>  acc @ x) [] l;
+fun flatten l = foldl (fn (x, acc) =>  acc @ x) [] l;
 ```
 
-## sublist
+## [sublist](https://github.com/Stagyrite/stagyrite.github.io/blob/main/sml/sublist.sml "stagyrite.github.io/sml/sublist.sml at main · Stagyrite/stagyrite.github.io")
 
 A sublist of the list l = \[x\_<sub>1</sub>, …, x\_<sub>n</sub>\] is
 called the list \[x\_<sub>i + 1</sub>, …, x\_<sub>j</sub>\] for 0 ≤ i ≤
 j ≤ n.
 
 ```sml
-    fun sublist (x::xs) =
-        let
-        fun addx (ys::yss) = (x::ys) :: addx yss
-          | addx nil = nil
-        val xss = sublist xs
-        in
-        xss @ addx xss
-        end
-      | sublist [] = [[]];
+fun sublist (x::xs) =
+    let
+    fun addx (ys::yss) = (x::ys) :: addx yss
+      | addx nil = nil
+    val xss = sublist xs
+    in
+    xss @ addx xss
+    end
+  | sublist [] = [[]];
 ```
 
-## subseq
+## [subseq](https://github.com/Stagyrite/stagyrite.github.io/blob/main/sml/subseq.sml "stagyrite.github.io/sml/sublist.sml at main · Stagyrite/stagyrite.github.io")
 
 A subsequence of the list l = \[x\_<sub>1</sub>, …, x\_<sub>n</sub>\] is
 called the list \[x\_<sub>i+1</sub>, …, x\_<sub>j</sub>\] for 0 ≤ i ≤ j
 ≤ n.
 
 ```sml
-    fun subseq l = 
-        let
-        fun revert (x::xs) = (revert xs) @ [x]
-          | revert _ = nil;
+fun subseq l = 
+    let
+    fun revert (x::xs) = (revert xs) @ [x]
+      | revert _ = nil;
 
-        fun member x (y::xs) = (if y = x then true 
-                    else member x xs)
-          | member x nil = false;
+    fun member x (y::xs) = (if y = x then true 
+                else member x xs)
+      | member x nil = false;
 
-        fun rmDupl l =
-            let 
-            fun dupRm nil _ = nil
-              | dupRm (x::xs) unique =
-                (if (member x unique) then (dupRm xs unique) else x::(dupRm xs (x::unique))); 
-            in
-            dupRm l []
-            end;
-        fun addtosubseq (x::xs) conseq subseq =
-            
-            let
-            (** Adds x to each list passed as an argument. *)
-            fun addx (ys::yss) = (x::ys) :: addx yss
-              | addx nil = nil
-            val newconseq = [x] :: addx conseq;
-            val newsubseq = newconseq @ subseq
-            in
-            addtosubseq xs newconseq newsubseq
-            end
-          | addtosubseq nil conseq subseq = subseq;
-
+    fun rmDupl l =
+        let 
+        fun dupRm nil _ = nil
+          | dupRm (x::xs) unique =
+            (if (member x unique) then (dupRm xs unique) else x::(dupRm xs (x::unique))); 
         in
-        rmDupl (addtosubseq (revert l) [[]] [[]])
+        dupRm l []
         end;
+    fun addtosubseq (x::xs) conseq subseq =
+        
+        let
+        (** Adds x to each list passed as an argument. *)
+        fun addx (ys::yss) = (x::ys) :: addx yss
+          | addx nil = nil
+        val newconseq = [x] :: addx conseq;
+        val newsubseq = newconseq @ subseq
+        in
+        addtosubseq xs newconseq newsubseq
+        end
+      | addtosubseq nil conseq subseq = subseq;
+
+    in
+    rmDupl (addtosubseq (revert l) [[]] [[]])
+    end;
 ```
 
 ---

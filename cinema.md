@@ -40,6 +40,7 @@ as well as [a channel with C64 games](https://eltikia.github.io/ "Nostalgie-Ecke
 ## Monochrome gallery
 
 [![🇩🇪 Nosferatu – Eine Symphonie des Grauens &#124; Nosferatu: A Symphony of Horror (1922)](images/nosferatu.png)](images/big/nosferatu.png "🇩🇪 Nosferatu – Eine Symphonie des Grauens &#124; Nosferatu: A Symphony of Horror (1922)")
+[![🇺🇸 Sherlock, Jr. (1924)](images/sherlock-jr.jpg)](images/big/sherlock-jr.jpg "🇺🇸 Sherlock, Jr.")
 [![🇩🇪 Faust - Eine deutsche Volkssage &#124; Faust – A German Folktale (1926)](images/faust.png)](images/big/faust.png "🇩🇪 Faust - Eine deutsche Volkssage &#124; Faust – A German Folktale (1926)")
 [![🇩🇪 Metropolis (1926)](images/metropolis.png)](images/big/metropolis.png "🇩🇪 Metropolis (1926)")
 [![🇩🇪 Panik &#124; Panic (1928)](images/panik.png)](images/big/panik.png "🇩🇪 Panik &#124; Panic (1928)")
@@ -51,6 +52,7 @@ as well as [a channel with C64 games](https://eltikia.github.io/ "Nostalgie-Ecke
 ## Gallery colorization
 
 [![🇩🇪 Nosferatu – Eine Symphonie des Grauens &#124; Nosferatu: A Symphony of Horror (1922)](images/colorized/nosferatu.png)](images/colorized/big/nosferatu.jpg "🇩🇪 Nosferatu – Eine Symphonie des Grauens &#124; Nosferatu: A Symphony of Horror (1922)")
+[![🇺🇸 Sherlock, Jr. (1924)](images/colorized/sherlock-jr.jpg)](images/colorized/big/sherlock-jr.jpg "🇺🇸 Sherlock, Jr.")
 [![🇩🇪 Faust - Eine deutsche Volkssage &#124; Faust – A German Folktale (1926)](images/colorized/faust.png)](images/colorized/big/faust.jpg "🇩🇪 Faust - Eine deutsche Volkssage &#124; Faust – A German Folktale (1926)")
 [![🇩🇪 Metropolis (1926)](images/colorized/metropolis.png)](images/colorized/big/metropolis.jpg "🇩🇪 Metropolis (1926)")
 [![🇩🇪 Panik &#124; Panic (1928)](images/colorized/panik.png)](images/colorized/big/panik.jpg "🇩🇪 Panik &#124; Panic (1928)")
