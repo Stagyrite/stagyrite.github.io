@@ -1,4 +1,9 @@
-fun rmDupl l =
+(*
+ * rmDupl that removes duplicates from the list,
+ * i.e. all occurrences of each element except its first occurrence.
+ *)
+
+ fun rmDupl l =
     let 
     fun member x (y::xs) = (if y = x then true 
                 else member x xs)

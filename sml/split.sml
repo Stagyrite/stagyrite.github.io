@@ -1,3 +1,5 @@
+(* split i [x_1, ..., x_n] = ([x_1, ..., x_n], [x_i+1, ..., x_n]) *)
+
 exception Split;
 
 fun split i nil = (if i = 0 then (nil, nil) else raise Split)

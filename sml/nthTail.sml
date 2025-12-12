@@ -1,3 +1,5 @@
+(* nthTail i [x_1, ..., x_n] = [x_i + 1, ..., x_n]; *)
+
 exception NthTail;
 
 fun nthTail _ nil = raise NthTail

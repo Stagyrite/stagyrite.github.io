@@ -1,3 +1,8 @@
+(*
+ * prod designating the product of two lists,
+ * i.e. the list of all pairs of elements of both lists.
+ *)
+
 fun prod (nil, _) = []
   | prod ((x::xs), l) = 
     let 

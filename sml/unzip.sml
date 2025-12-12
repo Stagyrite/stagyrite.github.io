@@ -1,3 +1,5 @@
+(* unzip [(x_1, y_1), ..., (x_n, y_n)] = ([x_1, ..., x_n], [y_1, ..., y_n]) *)
+
 exception Unzip;
 
 fun unzip [] = raise Unzip 

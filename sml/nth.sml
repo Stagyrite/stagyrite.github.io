@@ -1,3 +1,5 @@
+(* nth i [x_1, ..., x_n] = x_i; *)
+
 exception Nth;
 
 fun nth _ nil = raise Nth
