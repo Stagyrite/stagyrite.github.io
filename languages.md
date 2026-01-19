@@ -11,7 +11,7 @@
 
 #### Speaking Streem
 
-##### ./streem languageVersions.strm
+##### ./[streem](https://stagyrite.github.io/streemdox/ "Streem documentation project &#124; Streemdox") [languageVersions.strm](https://github.com/Stagyrite/stagyrite.github.io/blob/main/languageVersions.strm "stagyrite.github.io/languageVersions.strm at main · Stagyrite/stagyrite.github.io")
 
 ```ruby
 get = {
@@ -50,17 +50,20 @@ makeProduct = (row) -> {
     product
 }
 
-frenchProductName = { row ->
-    inFrench = row.get("name_fr")
-    puts("🇫🇷 " + inFrench)
-}
-
+inFrench = map { row -> "🇫🇷 "  + row.get("name_fr") }
 translationsCsv = csv()
 ["string,string,string,string"] | translationsCsv
 stream = fread("languageVersions.csv") | translationsCsv
-stream | makeProduct | frenchProductName
+stream | makeProduct | drop(2) | inFrench | stdout
 
 # Output: 🇫🇷 Râteau à gazon
+```
+
+##### [languageVersions.csv](https://github.com/Stagyrite/stagyrite.github.io/blob/main/languageVersions.csv "stagyrite.github.io/languageVersions.csv at main · Stagyrite/stagyrite.github.io")
+
+```csv
+name,name_pl,name_fr,name_de
+lawn rake,Grabie do trawy,Râteau à gazon,Grasrechen
 ```
 
 ---
