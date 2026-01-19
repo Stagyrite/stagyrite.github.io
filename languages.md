@@ -37,35 +37,28 @@ getName = (x, language) -> {
         get(x, index)
 }
 
-hasName = (x, english) -> { getName(x, "en") == english }
+makeProduct = (row) -> {
+    name = getName(row, "en")
+    inPolish = getName(row, "pl")
+    inFrench = getName(row, "fr")
+    inGerman = getName(row, "de")
+    product = kvs()
+    product.put("name", name)
+    product.put("name_pl", inPolish)
+    product.put("name_fr", inFrench)
+    product.put("name_de", inGerman)
+    product
+}
+
+frenchProductName = { row ->
+    inFrench = row.get("name_fr")
+    puts("🇫🇷 " + inFrench)
+}
+
 translationsCsv = csv()
 ["string,string,string,string"] | translationsCsv
-stream = fread("translations.csv") | translationsCsv
-
-translate = (english, language) -> {
-        thisFilter = filter{ x -> hasName(x, english) }
-        translateThis = map { x -> getName(x, language) }
-        translationsCsv | thisFilter | translateThis
-}
-
-translations = kvs()
-product = kvs()
-
-translateProduct = (name) -> {
-        translations.put(name + "_pl", translate(name, "pl"))
-        translations.put(name + "_fr", translate(name, "fr"))
-        translations.put(name + "_de", translate(name, "de"))
-        product.put("name", name)
-        product.put("name_pl", name)
-        product.put("name_fr", name)
-        product.put("name_de", name)
-        product.update("name_pl") { x -> translations.get(x + "_pl") }
-        product.update("name_fr") { x -> translations.get(x + "_fr") }
-        product.update("name_de") { x -> translations.get(x + "_de") }
-}
-
-translateProduct("lawn rake")
-product.get("name_fr") | map { x -> "🇫🇷 " + x } | stdout
+stream = fread("languageVersions.csv") | translationsCsv
+stream | makeProduct | frenchProductName
 
 # Output: 🇫🇷 Râteau à gazon
 ```
